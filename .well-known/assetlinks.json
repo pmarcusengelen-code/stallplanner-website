@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.redevelopers.stallplanner",
+      "sha256_cert_fingerprints": [
+        "92:FE:D8:B8:9A:2A:E8:DF:6F:CD:E3:DD:F6:3D:DB:EF:F1:C1:50:25:B2:03:E7:F4:0E:65:F2:FD:8D:56:35:EF"
+      ]
+    }
+  }
+]

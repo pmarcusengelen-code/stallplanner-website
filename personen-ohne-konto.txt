@@ -1,0 +1,36 @@
+STATUS: FREIGEGEBEN
+Stall Planner – Information für Personen ohne Konto
+Stand: 23. Oktober 2026. Gleicher Inhalt wie Abschnitt 15 der Datenschutzinformation; bei Abweichungen gilt die Datenschutzinformation.
+
+Verantwortlich: Marcus Engelen, c/o IP-Management #12553, Ludwig-Erhard-Straße 18, 20459 Hamburg, Deutschland. E-Mail: datenschutz@stallplanner.de.
+
+Stall Planner ist eine App, mit der Menschen die Versorgung ihrer Pferde planen. Diese Information ist für Menschen, die selbst kein Konto bei Stall Planner haben, über die aber etwas eingetragen sein kann.
+
+Wer kann betroffen sein?
+Zum Beispiel Tierärzte, Hufschmiede, Reitlehrer, Stallnachbarn oder Personen, die eine Einladung oder die Info-Mail für Eltern bekommen.
+
+Welche Daten?
+Kontakte wie Tierarzt oder Hufschmied mit Name, Funktion, Telefon und E-Mail. Außerdem kann in Termintiteln (bis 80 Zeichen), Besuchsnotizen (bis 500 Zeichen), Notizen und Nachrichten etwas stehen wie „Hufschmied Müller 10 Uhr“. Fotos können Personen zeigen. Bei Einladungen per Code speichern wir die E-Mail-Adresse, die der Besitzer des Pferdes eingibt. Ein Einladungslink enthält keine Angaben über die eingeladene Person.
+
+Woher kommen die Daten?
+Die Nutzer der App tragen sie selbst ein, zum Beispiel den Kontakt eines Tierarztes oder eine Notiz. Bei Einladungen per Code gibt der Besitzer des Pferdes die Adresse ein.
+
+Wofür?
+Damit die Beteiligten die Versorgung ihres Pferdes gemeinsam planen können. Wir verwenden diese Angaben für nichts anderes und werten Freitexte und Fotos nicht aus.
+
+Rechtsgrundlage
+Art. 6 Abs. 1 lit. f DSGVO. Unser Interesse und das der Nutzer ist die gemeinsame Planung rund um ihre Pferde. Die App fragt keine Angaben zur Gesundheit von Menschen ab. Steht so etwas doch in einem Text, löschen wir es auf Anfrage.
+
+Wie lange?
+Solange der Eintrag besteht, längstens bis das Pferd gelöscht wird. Eine Einladung per Code gilt 48 Stunden. Nimmst du sie nicht an, löschen wir deine Adresse spätestens 7 Tage nach Ablauf oder Widerruf. Kopien auf den Handys der Beteiligten verschwinden spätestens nach 60 Tagen ohne Verbindung. In Datensicherungen können gelöschte Angaben noch bis zu 7 Tage stehen.
+
+Wer sieht die Daten?
+Die Beteiligten des jeweiligen Pferdes, je nach ihrer Rolle, und unsere Dienstleister, vor allem Supabase (Datenbank in Frankfurt am Main), Resend (E-Mail-Versand, USA) und Google Workspace (unser Postfach, wenn du uns schreibst). Einzelheiten stehen in der Datenschutzinformation unter https://stallplanner.de/datenschutz.html, Abschnitte 5 und 7.
+
+Warum informieren wir dich nicht einzeln?
+Meist wissen wir nicht, wer in einem Text oder auf einem Foto gemeint ist, und wir haben keine Kontaktdaten. Kontaktdaten wie die Nummer eines Tierarztes nutzen wir nur für die Planung beim Pferd. Um dich zu informieren, müssten wir sie für einen anderen Zweck verwenden oder zusätzliche Daten über dich sammeln. Deshalb informieren wir öffentlich auf dieser Seite (Art. 14 Abs. 5 lit. b DSGVO).
+
+Deine Rechte
+Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch (Art. 15 bis 18 und 21 DSGVO). Schreib an datenschutz@stallplanner.de und nenne uns, wenn möglich, das Pferd oder den Eintrag. Freitexte und Fotos über dich löschen wir auf Anfrage.
+Du kannst jederzeit aus Gründen, die sich aus deiner besonderen Situation ergeben, dieser Verarbeitung widersprechen (Art. 21 DSGVO).
+Du kannst dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO), zum Beispiel in dem EU-Staat, in dem du wohnst oder arbeitest. Für uns zuständig ist das Bayerische Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach, https://www.lda.bayern.de.
