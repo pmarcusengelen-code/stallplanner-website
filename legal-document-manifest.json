@@ -5,22 +5,22 @@
     {
       "kind": "privacy",
       "file": "pilot-privacy.txt",
-      "version": "2026-10-23-final2",
-      "sha256": "df06b6a95144bc750e175db58680587730de867a1d1610fbdf15600db0318bd8",
+      "version": "2026-10-27-final1",
+      "sha256": "ac7c5f93e60079a5337a1c09e094fd30fd0dbe8ca6fee9c052071b729fee80da",
       "approved": true
     },
     {
       "kind": "terms",
       "file": "pilot-terms.txt",
-      "version": "2026-10-23-final1",
-      "sha256": "237c1afeee8bafcc41120b5715e5a3643c9613b27541cce1fb08ccbf264aafc3",
+      "version": "2026-10-27-final1",
+      "sha256": "db92753a11d1d60d7f4708e6ffc8829856e03e263f4d309a3c50d2281405ec96",
       "approved": true
     },
     {
       "kind": "persons_without_account",
       "file": "personen-ohne-konto.txt",
-      "version": "2026-10-23-final1",
-      "sha256": "6905f7d329a0f64032a736e85e77cc89178db7bed6e0c8d0bbaa9c51828a8cf7",
+      "version": "2026-10-27-final1",
+      "sha256": "f551f9c02f9dae6bcb1c643dcd9a9725154ed879a9e129b4ffa46d9e72daa648",
       "approved": true
     },
     {
@@ -33,10 +33,10 @@
     {
       "kind": "age_question",
       "file": "registration-age-question.json",
-      "version": "2026-10-23-age2",
-      "sha256": "db2704a3ea0f5412f2d2514a758ee88f6241a1ef8763cf84d37e6952738d1953",
+      "version": "2026-10-27-age3",
+      "sha256": "83df5eb9e12d421782572eeed74f40f306ac7267039ab4d07d2ea81f7f0319ee",
       "approved": true
     }
   ],
-  "javaSha256": "406f281c34def5548bfab0b1f90d9cfeff94068ebef87a975d0907d457167c69"
+  "javaSha256": "910dace87eb8acd410664f85bb4349abfc8fe98dfe48491a8b77527c784b9704"
 }

@@ -1,13 +1,13 @@
 STATUS: FREIGEGEBEN
 Datenschutzerklärung für die App Stall Planner
 
-Stand: 23. Oktober 2026 · Fassung für die Testphase im geschlossenen Kreis
+Stand: 27. Oktober 2026 · Fassung für Google Play (geschlossener Test und öffentlicher Betrieb)
 
 Diese Datenschutzerklärung gilt für die Android-App Stall Planner und für die Seiten unter stallplanner.de. Dazu gehören auch die Seite zum Löschen des Kontos (https://stallplanner.de/konto-loeschen.html) und die Einladungsseite (https://stallplanner.de/einladung). In Google Play erscheint die App unter dem Entwicklernamen „ReDeveloper“.
 
 ## 1. Das Wichtigste in Kürze
 
-Stall Planner wird von Marcus Engelen als Privatperson betrieben. Fragen zum Datenschutz schickst du an datenschutz@stallplanner.de. Für dein Konto brauchen wir deine E-Mail-Adresse, ein Passwort, einen Anzeigenamen und deine Altersgruppe. Deinen echten Namen brauchen wir nicht; nur beim Widerruf kannst du ihn freiwillig angeben (4.16). Was du bei einem Pferd einträgst, sehen die anderen Mitglieder dieses Pferdes je nach ihrer Rolle. Deine Kosten, Unterlagen und privaten Notizen siehst nur du. Sie liegen geschützt auf unserem Server. Ende-zu-Ende-verschlüsselt sind sie nicht, technisch könnten wir sie also lesen. Wir tun das nur, wenn es nötig ist (4.12). Die Datenbank liegt in Frankfurt am Main. Einige Dienstleister sitzen außerhalb der EU (Abschnitt 7). Es gibt keine Werbung und kein Tracking, und wir verkaufen keine Daten. Einigen Verarbeitungen kannst du widersprechen (Abschnitt 3), und dein Konto kannst du jederzeit in der App löschen (Abschnitt 8).
+Stall Planner wird von Marcus Engelen als Privatperson betrieben. Fragen zum Datenschutz schickst du an datenschutz@stallplanner.de. Für dein Konto brauchen wir deine E-Mail-Adresse, ein Passwort, einen Benutzernamen sowie Monat und Jahr deiner Geburt. Deinen echten Namen brauchen wir nicht; nur beim Widerruf kannst du ihn freiwillig angeben (4.16). Was du bei einem Pferd einträgst, sehen die anderen Mitglieder dieses Pferdes je nach ihrer Rolle, auch Mitglieder, die erst später dazukommen. Deine Kosten, Unterlagen und privaten Notizen siehst nur du. Sie liegen geschützt auf unserem Server. Ende-zu-Ende-verschlüsselt sind sie nicht, technisch könnten wir sie also lesen. Wir tun das nur, wenn es nötig ist (4.12). Die Datenbank liegt in Frankfurt am Main. Einige Dienstleister sitzen außerhalb der EU (Abschnitt 7). Es gibt keine Werbung und kein Tracking, und wir verkaufen keine Daten. Einigen Verarbeitungen kannst du widersprechen (Abschnitt 3), und dein Konto kannst du jederzeit in der App löschen (Abschnitt 8).
 
 Die Einzelheiten stehen in den folgenden Abschnitten.
 
@@ -24,7 +24,7 @@ E-Mail: datenschutz@stallplanner.de
 
 Diese Adresse ist für Fragen zum Datenschutz und für Anträge nach der DSGVO da. Für alle anderen Anliegen gibt es kontakt@stallplanner.de.
 
-Einen Datenschutzbeauftragten haben wir nicht benannt, weil wir dazu nicht verpflichtet sind.
+Einen Datenschutzbeauftragten haben wir nicht benannt.
 
 ## 3. Dein Widerspruchsrecht
 
@@ -44,65 +44,65 @@ Bei jedem Pferd hat jede Person eine Rolle: Besitzer (hat das Pferd angelegt), R
 
 ### 4.1 Konto, Anmeldung und Sitzungen
 
-- **Was:** deine E-Mail-Adresse, dein Passwort, eine interne Kontonummer und ob dein Konto bestätigt ist. Das Passwort speichert der Anmeldedienst nur als Prüfwert, nie im Klartext. Wir speichern auch, ob du auf der Zugangsliste für den Test stehst, Sperrvermerke und, falls du ihn einrichtest, einen zweiten Faktor (Authenticator-App). Für jede Anmeldung legen wir eine Sitzung an. Sie enthält eine Kennung, den Zeitpunkt deiner letzten Nutzung und, falls sie beendet ist, ihr Ende.
-- **Wozu:** Damit legst du dein Konto an, meldest dich an und schützt es. Du meldest dich mit deiner E-Mail-Adresse oder deinem Anzeigenamen und deinem Passwort an. Bei der Registrierung, bei „Passwort vergessen“, beim Wechsel der E-Mail-Adresse und bei wichtigen Änderungen schicken wir dir einen Bestätigungscode per E-Mail. Er gilt nur kurze Zeit. Nach Änderungen am Konto bekommst du einen Sicherheitshinweis per E-Mail.
-- **Rechtsgrundlage:** Vertrag. Für Sicherheitshinweise und Sperrvermerke gilt unser berechtigtes Interesse, dein Konto und den Dienst vor fremdem Zugriff zu schützen.
-- **Wie lange:** solange dein Konto besteht. Das gilt auch für Sperrvermerke. Eine Anmeldung gilt höchstens 30 Tage und endet nach 7 Tagen ohne Nutzung. Konten, die nie bestätigt wurden, löschen wir nach 7 Tagen. Dafür und für die anderen Fristen in dieser Erklärung räumt ein automatischer Wartungslauf jeden Tag auf.
+- **Was:** deine E-Mail-Adresse, dein Passwort, eine interne Kontonummer und ob dein Konto bestätigt ist. Das Passwort speichert der Anmeldedienst nur als Prüfwert, nie im Klartext. Wir speichern auch, wie dein Konto zugelassen wurde (zum Beispiel über einen Einladungslink), Sperrvermerke und welche Version der App du zuletzt genutzt hast, mit Zeitpunkt deiner letzten Nutzung. Für jede Anmeldung legt der Anmeldedienst eine Sitzung an. Sie enthält eine Kennung, den Zeitpunkt deiner letzten Nutzung und, falls sie beendet ist, ihr Ende.
+- **Wozu:** Damit legst du dein Konto an, meldest dich an und schützt es. Du meldest dich mit deiner E-Mail-Adresse oder deinem Benutzernamen und deinem Passwort an. Bei der Registrierung, bei „Passwort vergessen“ und beim Wechsel der E-Mail-Adresse schicken wir dir einen Bestätigungscode per E-Mail. Er gilt 10 Minuten. Beim Wechsel der E-Mail-Adresse bekommen die alte und die neue Adresse je einen Code.
+- **Rechtsgrundlage:** Vertrag. Für Sperrvermerke gilt unser berechtigtes Interesse, dein Konto und den Dienst vor fremdem Zugriff und Missbrauch zu schützen.
+- **Wie lange:** solange dein Konto besteht. Das gilt auch für Sperrvermerke. Eine Anmeldung endet nach 30 Tagen ohne Nutzung oder wenn du dich abmeldest. Anmeldedaten, zu denen die Registrierung nie abgeschlossen wurde, löschen wir nach 7 Tagen. Dafür und für die anderen Fristen in dieser Erklärung räumt ein automatischer Wartungslauf jeden Tag auf.
 
-### 4.2 Anzeigename
+### 4.2 Benutzername
 
-- **Was:** dein Anzeigename (3 bis 20 Zeichen) und wann du ihn zuletzt geändert hast. Außerdem zählen wir, wie oft du am Tag einen Namen ausprobierst. Erlaubt sind 20 Versuche pro Tag.
+- **Was:** dein Benutzername (3 bis 24 Zeichen) und wann du ihn zuletzt geändert hast. Die anderen sehen ihn als deinen Namen in der App.
 - **Wozu:** Die anderen bei deinen Pferden sollen sehen, wer etwas geschrieben oder eingetragen hat, ohne deinen echten Namen zu kennen. Ändern kannst du den Namen höchstens alle 30 Tage. Eine Suche nach Personen gibt es nicht.
-- **Rechtsgrundlage:** Vertrag. Für das Zählen der Versuche gilt unser berechtigtes Interesse: Wir wollen verhindern, dass jemand durch massenhaftes Ausprobieren herausfindet, welche Anzeigenamen es gibt.
+- **Rechtsgrundlage:** Vertrag.
 - **Wie lange:** solange dein Konto besteht.
 
-### 4.3 Altersgruppe
+### 4.3 Geburtsmonat und Geburtsjahr
 
-- **Was:** deine Altersgruppe (13–15, 16–17 oder 18+) und wann und in welcher Fassung der Frage du sie angegeben hast. Bist du unter 18, speichern wir außerdem deine Bestätigung, dass deine Eltern Bescheid wissen und einverstanden sind. Ein Geburtsdatum oder eine Ausweiskopie verlangen wir nicht.
-- **Wozu:** Damit halten wir das Mindestalter von 13 Jahren ein und schützen Jugendliche unter 18 besonders (Abschnitt 11). Du gibst die Altersgruppe bei der Registrierung an. Selbst ändern kannst du sie danach nicht. Hast du dich vertan, schreib an datenschutz@stallplanner.de, dann korrigieren wir die Angabe. Sie liegt nur auf unserem Server, andere Mitglieder sehen sie nicht. Gibst du an, unter 13 zu sein, speichern wir diese Antwort nicht.
+- **Was:** Monat und Jahr deiner Geburt, wann du sie angegeben hast und in welcher Fassung der Frage. Daraus berechnet unser Server dein Alter; es wächst automatisch mit. Den Tag deiner Geburt und eine Ausweiskopie verlangen wir nicht. Bist du unter 18, speichern wir außerdem deine Bestätigung, dass deine Eltern einverstanden sind, mit Zeitpunkt. Hast du dein Konto in einer früheren Version der App angelegt, steht dort noch deine damalige Altersgruppe (13–15, 16–17 oder 18+); die App fragt dich dann einmal nach Monat und Jahr.
+- **Wozu:** Damit halten wir das Mindestalter von 13 Jahren ein und schützen Jugendliche besonders (Abschnitt 11). Du gibst die Angabe bei der Registrierung an. Selbst ändern kannst du sie danach nicht. Hast du dich vertan, schreib an datenschutz@stallplanner.de, dann korrigieren wir sie. Sie liegt nur auf unserem Server, andere Mitglieder sehen sie nicht. Bist du jünger als 13, ist keine Registrierung möglich, und wir speichern deine Angabe nicht.
 - **Rechtsgrundlage:** Vertrag. Außerdem gilt unser berechtigtes Interesse, Minderjährige zu schützen und nachweisen zu können, dass wir die Altersregeln einhalten.
 - **Wie lange:** solange dein Konto besteht.
 
 ### 4.4 Pferde, Rollen und Einladungen
 
-- **Was:** das Pferd mit Namen und Steckbrief (zum Beispiel Rasse, Farbe, Geburtsdatum) und wer es angelegt hat. Zu jeder Mitgliedschaft speichern wir Rolle, Status, Beginn und Ende und wer wann etwas daran geändert hat. Mit einem Konto kannst du bis zu 2 eigene Pferde anlegen. Damit ein Pferd nicht doppelt angelegt wird, speichern wir einen Prüfwert des Namens deines ersten Pferdes.
-- **Einladung per Link (Reitbeteiligung):** Der Besitzer teilt einen Link über eine App seiner Wahl. Der Link gilt 7 Tage. In dieser Zeit können ihn mehrere Personen nutzen. Den Code im Link speichern wir nur als Prüfwert. Wer den Link einlöst, muss angemeldet sein. Für jede Person, die ihn einlöst, speichern wir, wer es war und wann, und die E-Mail-Adresse dieses Kontos. Zugriff auf das Pferd gibt es erst, wenn der Besitzer diese Person einzeln bestätigt. Dann bleibt die Adresse als Kopie in der Mitgliedschaft. Damit prüfen wir die Berechtigung. Andere Mitglieder sehen sie nicht. Lehnt der Besitzer eine Person ab oder widerruft er den Link, bevor er sie bestätigt hat, löschen wir die Adresse dieser Person.
-- **Einladung per Code (Stall, Fachperson):** Der Besitzer gibt die E-Mail-Adresse der eingeladenen Person ein. Wir speichern die Adresse, einen Prüfwert des Codes und den Status. Den Code gibt der Besitzer selbst weiter, zum Beispiel über einen Messenger. Wir verschicken dafür keine E-Mail. Annehmen kann die Einladung nur ein Konto mit genau dieser bestätigten Adresse. Die Einladung gilt 48 Stunden. Wird sie angenommen, bleibt die Adresse als Kopie in der Mitgliedschaft.
-- Gleichzeitig offen sein können höchstens 10 Einladungen und Links.
+- **Was:** das Pferd mit Namen, Rufnamen und Steckbrief (zum Beispiel Rasse, Farbe, Größe, Geburtsdatum) und wer es angelegt hat. Zu jeder Mitgliedschaft speichern wir Rolle, bei einer Fachperson die Bereiche, die der Besitzer ihr freigegeben hat, Beginn und wer wann etwas daran geändert hat. Mit einem Konto kannst du bis zu 5 eigene Pferde anlegen. Ein Pferd kann höchstens 20 Mitglieder haben.
+- **Einladung per Link:** Einladen kann nur der Besitzer. Er wählt die Rolle (Reitbeteiligung, Stall oder Fachperson) und teilt einen Link über eine App seiner Wahl. Der Link gilt 7 Tage und für eine Person. Den Code im Link speichern wir nur als Prüfwert. Wer den Link öffnet, sieht in der App den Namen des Pferdes, den Benutzernamen des Besitzers und die Rolle. Hat die Person noch kein Konto, kann sie sich über den Link registrieren. Löst sie den Link ein, speichern wir, wer es war und wann. Zugriff auf das Pferd gibt es erst, wenn der Besitzer die Anfrage bestätigt. Die Anfrage wartet bis zu 7 Tage. Eine E-Mail-Adresse speichern wir bei Einladungen nicht.
+- **Einladung aus der Zwischenablage:** Beim ersten Start nach der Installation schaut die App einmal in die Zwischenablage deines Handys, ob dort ein Einladungslink von stallplanner.de liegt. Findet sie einen, macht sie nach der Anmeldung oder Registrierung mit dieser Einladung weiter. Vorher fragt sie nicht: Wer einen Einladungslink geöffnet oder kopiert hat und dann die App installiert, will genau diese Einladung fortsetzen; eine zusätzliche Frage würde diesen Schritt nur unterbrechen. Die App prüft den Inhalt nur auf dem Handy. Anderen Inhalt der Zwischenablage speichert oder sendet sie nicht, und sie liest die Zwischenablage danach nicht noch einmal.
+- Gleichzeitig offen sein können höchstens 10 Einladungslinks je Pferd.
 - **Rechtsgrundlage:** Vertrag. Für den Änderungsverlauf gilt unser berechtigtes Interesse, Freigaben nachvollziehen und Missbrauch aufklären zu können.
-- **Wie lange:** solange das Pferd oder die Mitgliedschaft besteht. Den Verlauf behalten wir, bis das Pferd gelöscht wird, den Prüfwert des Pferdenamens, bis dein Konto gelöscht wird. Die Kopie deiner E-Mail-Adresse in der Mitgliedschaft löschen wir, wenn die Mitgliedschaft endet. Die Adresse einer Code-Einladung, die nicht angenommen wurde, löschen wir spätestens 7 Tage nach ihrem Ablauf oder Widerruf.
+- **Wie lange:** solange das Pferd oder die Mitgliedschaft besteht. Den Verlauf behalten wir, bis das Pferd gelöscht wird. Einladungslinks und die Anfragen dazu löschen wir 7 Tage, nachdem der Link abgelaufen ist, benutzt oder widerrufen wurde.
 
 ### 4.5 Profilbild, Pferdebild und Galerie (freiwillig)
 
-- **Was:** höchstens ein Profilbild je Konto und ein Hauptbild je Pferd, dazu bis zu 8 weitere Fotos je Pferd in der Galerie. Zu jedem Bild speichern wir eine Kennung, Größe, Prüfsumme und wann es hochgeladen und gelöscht wurde.
-- **So verarbeitet die App ein Foto:** Die App nimmt JPEG, PNG und WebP an. Vor dem Hochladen speichert sie jedes Bild neu als JPEG, mit höchstens 700 Pixeln an der längsten Kante und höchstens 350 KB. Dabei entfernt sie Ortsangaben und andere Zusatzdaten (EXIF). Pro Konto sind zusammen höchstens 10 MB Bilder und höchstens 10 neue Bilder in 24 Stunden möglich, Galeriefotos eingerechnet.
-- **Wozu:** Die Beteiligten sollen dich und das Pferd leichter erkennen. Die Galerie sammelt Fotos des Pferdes. Fotos hinzufügen dürfen Besitzer und Reitbeteiligungen. Löschen darf, wer das Foto hochgeladen hat, und der Besitzer.
-- **Wer sieht die Bilder:** nur angemeldete Personen, die gerade Zugriff auf das Pferd haben. Bei jedem Abruf prüft unser Server, ob dieser Zugriff noch besteht. Dein Profilbild sehen alle, mit denen du ein Pferd teilst. Das Hauptbild des Pferdes sehen der Besitzer und die Reitbeteiligungen. Die Galerie sehen alle Mitglieder des Pferdes, also auch Stall und Fachperson. Die Bilder sind nicht öffentlich und haben keinen öffentlichen Link.
+- **Was:** höchstens ein Profilbild je Konto und ein Hauptbild je Pferd, dazu bis zu 8 weitere Fotos je Pferd in der Galerie. Zu jedem Bild speichern wir eine Kennung, wer es hochgeladen hat, Größe, Bildmaße, Prüfsumme und wann es hochgeladen, geprüft und gelöscht wurde.
+- **So verarbeitet die App ein Foto:** Du wählst Fotos über die Fotoauswahl deines Handys aus und kannst den Ausschnitt festlegen. Vor dem Hochladen speichert die App jedes Bild neu als JPEG, mit etwa 1.600 Pixeln an der längsten Kante und etwa 1 MB. Dabei entfernt sie Ortsangaben und andere Zusatzdaten (EXIF). Unser Server prüft das Bild und speichert es ebenfalls ohne Zusatzdaten. Pro Konto sind zusammen höchstens 200 MB Bilder und höchstens 30 neue Bilder am Tag möglich, Galerie- und Chatfotos eingerechnet.
+- **Wozu:** Die Beteiligten sollen dich und das Pferd leichter erkennen. Die Galerie sammelt Fotos des Pferdes. Das Hauptbild setzt der Besitzer. Fotos in der Galerie hinzufügen dürfen Besitzer und Reitbeteiligungen. Löschen darf, wer das Foto hochgeladen hat, und der Besitzer.
+- **Wer sieht die Bilder:** nur angemeldete Personen, die gerade Zugriff auf das Pferd haben. Bei jedem Abruf prüft unser Server, ob dieser Zugriff noch besteht. Dein Profilbild sehen alle, mit denen du ein Pferd teilst. Das Hauptbild und die Galerie sehen alle Mitglieder des Pferdes, also auch Stall und Fachperson. Die Bilder sind nicht öffentlich und haben keinen öffentlichen Link.
 - Bitte zeig auf Fotos kein Gesicht, weder deins noch das anderer Menschen. Zeig auch keine Adresse und kein Autokennzeichen. Gut geeignet sind dein Pferd, ein Symbol oder ein Foto von hinten.
 - **Rechtsgrundlage:** Vertrag. Bilder sind freiwillig. Ohne Profilbild zeigt die App deine Initialen.
-- **Wie lange:** bis du ein Bild entfernst oder ersetzt oder bis das Pferd oder dein Konto gelöscht wird. Bilddateien sind nicht in den Datensicherungen enthalten (4.21).
+- **Wie lange:** Entfernst du dein Profilbild, löschen wir es. Entfernt der Besitzer das Hauptbild, bleibt es nur, solange es auf der Karte eines früheren Mitglieds in dessen Sammlung zu sehen ist (4.13); sonst löscht es die tägliche Wartung. Alle anderen Bilder bleiben, bis sie gelöscht werden oder bis das Pferd oder dein Konto gelöscht wird. Bilddateien sind nicht in den Datensicherungen enthalten (4.21).
 
 ### 4.6 Gemeinsame Pferdedaten und Verlauf
 
-- **Was:** Futter-, Medikamenten- und Pflegeplan und was davon erledigt wurde. Wurde etwas nicht erledigt, speichern wir auch den Grund, dazu spätere Korrekturen. Außerdem Gesundheitsangaben zum Pferd mit Allergien, Kontakte (zum Beispiel Tierarzt oder Hufschmied mit Name, Telefon und E-Mail), Training sowie Ausrüstung mit Fotos und Anfragen zur Ausrüstung. Bei jeder Änderung speichern wir, wer sie wann gemacht hat. Bei Medikamenten, Futter und Gesundheit bleiben der alte und der neue Wert im Verlauf. In der App kann niemand sie ändern. Es gibt nur eine Ausnahme: Verlangt ein ehemaliges Mitglied die Löschung seiner Beiträge (Abschnitt 8), schwärzen wir seine alten und neuen Werte in den Verläufen, auch bei der Einkaufsliste. Wie weit du gelesen hast („Neu seit deinem letzten Besuch“), speichern wir nur für dich.
+- **Was:** Futter-, Medikamenten- und Pflegeplan und was davon erledigt wurde, mit Uhrzeit der Gabe. Wurde etwas nicht erledigt, speichern wir auch den Grund, dazu spätere Korrekturen mit Zeitpunkt und Person. Außerdem Gesundheitsangaben zum Pferd mit Befunden und Allergien, Kontakte (zum Beispiel Tierarzt oder Hufschmied mit Name, Telefon und E-Mail), Training sowie Ausrüstung mit Fotos und Anfragen zur Ausrüstung. Bei jeder Änderung speichern wir, wer sie wann gemacht hat, mit altem und neuem Wert. Diesen Verlauf („Neu seit deinem letzten Besuch“) sehen alle, die den jeweiligen Bereich sehen dürfen, auch Mitglieder, die erst später dazukommen. In der App kann niemand ihn ändern. Löscht jemand einen Eintrag, schwärzen wir dessen Inhalt auch im Verlauf; dort steht dann nur noch, dass er gelöscht wurde. Verlangt ein ehemaliges Mitglied die Löschung seiner Beiträge (Abschnitt 8), schwärzen wir seine alten und neuen Werte ebenso. Wie weit du gelesen hast, speichern wir nur für dich.
 - **Wozu:** Damit plant ihr die Versorgung des Pferdes gemeinsam und seht, was sich geändert hat.
 - **Rechtsgrundlage:** Vertrag. Für den Verlauf, den in der App niemand ändern kann, gilt außerdem unser berechtigtes Interesse: Zum Schutz des Pferdes muss nachvollziehbar sein, wer Medikamente, Futter oder Gesundheitsangaben geändert hat. Für Kontakte von Personen ohne Konto gilt Abschnitt 15.
-- **Wie lange:** solange das Pferd besteht.
+- **Wie lange:** solange das Pferd besteht. Löschst du einen Eintrag, leeren wir seinen Inhalt sofort; den leeren Eintrag mit seinen Zeitpunkten löschen wir nach 60 Tagen ganz.
 
 ### 4.7 Chat, Fotos im Chat und Beobachtungen
 
-- **Was:** Text und Fotos, wer geschrieben hat, Zeitpunkte, der Vermerk „bearbeitet“ und ob eine Nachricht gelöscht ist. Zu Beobachtungen, zum Beispiel einer Wunde, speichern wir Text, Zeitpunkt und Fotos.
-- **Wozu:** Damit tauscht ihr euch beim Pferd aus und weist auf Auffälligkeiten hin. Es gibt einen Chat je Pferd. Lesen können ihn alle Mitglieder, schreiben können Besitzer, Reitbeteiligung und Stall. Die Fachperson liest mit und kann einen Notfall-Hinweis senden (4.11). Direktnachrichten und Lesebestätigungen gibt es nicht.
+- **Was:** Text (bis 2.000 Zeichen) und bis zu 4 Fotos je Nachricht, wer geschrieben hat, Zeitpunkte, der Vermerk „bearbeitet“ und ob und von wem eine Nachricht gelöscht wurde. Zu Beobachtungen, zum Beispiel einer Wunde, speichern wir Text, Zeitpunkt und Fotos.
+- **Wozu:** Damit tauscht ihr euch beim Pferd aus und weist auf Auffälligkeiten hin. Es gibt einen Chat je Pferd. Lesen und schreiben können alle Mitglieder, auch Stall und Fachperson. Neue Mitglieder sehen auch die älteren Nachrichten. Beobachtungen tragen Besitzer und Reitbeteiligungen ein. Direktnachrichten und Lesebestätigungen gibt es nicht.
 - **Wichtig:** Chat und Fotos sind nicht Ende-zu-Ende-verschlüsselt. Wir werten Nachrichten nicht aus. Lesen wir eine Nachricht, dann nur, wenn das nötig ist, zum Beispiel nach einer Meldung (4.15).
 - Bitte schreib keine Angaben zur Gesundheit von Menschen in den Chat oder in andere Texte. Stall Planner ist dafür nicht gedacht. Erfahren wir von solchen Angaben, löschen wir sie.
-- **Löschen:** Deine eigenen Nachrichten kannst du jederzeit löschen, auch mehrere auf einmal („Meine Nachrichten auswählen“). Text und Fotos verschwinden dann für alle, es bleibt ein leerer Platzhalter. Ein einzelnes Foto kannst du nicht aus einer Nachricht herausnehmen. Deine eigenen Beobachtungen kannst du ebenfalls selbst löschen. Der Besitzer darf außerdem Beobachtungen anderer an seinem Pferd löschen.
+- **Löschen:** Deine eigenen Nachrichten kannst du jederzeit ändern und löschen, auch mehrere auf einmal („Meine Nachrichten“). Text und Fotos verschwinden dann für alle, es bleibt ein leerer Platzhalter. Deine eigenen Beobachtungen kannst du ebenfalls selbst löschen. Der Besitzer darf außerdem Nachrichten und Beobachtungen anderer an seinem Pferd löschen.
 - **Rechtsgrundlage:** Vertrag.
-- **Wie lange:** bis du den Beitrag löschst oder das Pferd gelöscht wird. Was nach einem Austritt oder einer Kontolöschung bleibt, steht in Abschnitt 8.
+- **Wie lange:** bis der Beitrag gelöscht wird oder das Pferd gelöscht wird. Den leeren Platzhalter löschen wir nach 60 Tagen ganz. Was nach einem Austritt oder einer Kontolöschung bleibt, steht in Abschnitt 8.
 
 ### 4.8 Reittage, Tausch, Ruhetage und Anwesenheit
 
 - **Was:** wer an welchem Tag und zu welcher Uhrzeit reitet oder sich kümmert, Wiederholungen, Tausch- und Vertretungsanfragen mit Antwort, Ruhetage sowie Ab- und Anwesenheiten mit Notiz. Bei allem speichern wir, wer es eingetragen hat und wann. Diese Angaben zeigen, wann jemand beim Pferd ist.
-- **Wozu:** Damit plant ihr, wer wann kommt, und regelt Tausch, Vertretung und Ruhetage.
+- **Wozu:** Damit plant ihr, wer wann kommt, und regelt Tausch, Vertretung und Ruhetage. Eine Tauschanfrage, auf die niemand antwortet, verfällt am Tag des Ritts.
 - **Rechtsgrundlage:** Vertrag.
 - **Wie lange:** solange das Pferd besteht. Was nach einem Austritt oder einer Kontolöschung passiert, steht in Abschnitt 8.
 
@@ -113,89 +113,88 @@ Bei jedem Pferd hat jede Person eine Rolle: Besitzer (hat das Pferd angelegt), R
 - **Rechtsgrundlage:** Vertrag.
 - **Wie lange:** solange das Pferd besteht.
 
-### 4.10 Kalender und Besuchsanfragen
+### 4.10 Kalender und Besuche
 
-- **Was:** Termine mit Art, Titel (bis 80 Zeichen), Beginn, Ende, Wiederholung und Notiz, wer den Termin eingetragen hat und ob und wann er geändert oder gelöscht wurde. Zu Besuchsanfragen speichern wir, wer anfragt, Beginn und Ende, eine Notiz (bis 500 Zeichen), den Status und den Verlauf.
-- **Wozu:** Damit seht ihr Termine für alle Pferde zusammen und fragt Besuche beim Pferd an. Der Kalender zeigt Einträge aus anderen Bereichen nur, soweit deine Rolle sie dort sehen darf.
+- **Was:** Termine mit Art, Titel (bis 80 Zeichen), Beginn, Ende, Wiederholung und Notiz, wer den Termin eingetragen hat und ob und wann er geändert oder gelöscht wurde. Termine tragen Besitzer und Reitbeteiligungen ein, außerdem der Stall und in freigegebenen Bereichen die Fachperson; Stall und Fachperson ändern und löschen nur ihre eigenen Termine. Zu Besuchen speichern wir, wer den Besuch einträgt oder anfragt, Beginn und Ende, eine Notiz (bis 500 Zeichen) und den Status. Im Verlauf eines Besuchs steht, wer ihn eingetragen, geändert, bestätigt, abgelehnt oder abgesagt hat und wann, bei geänderten Zeiten auch die alte und die neue Zeit. Bei der Notiz steht im Verlauf nur, dass sie geändert wurde, nicht ihr Inhalt.
+- **Wozu:** Damit seht ihr Termine für alle Pferde zusammen und plant Besuche beim Pferd. Der Kalender zeigt Einträge aus anderen Bereichen nur, soweit deine Rolle sie dort sehen darf. Besuche mit Notiz und Verlauf sehen alle Mitglieder des Pferdes.
 - **Rechtsgrundlage:** Vertrag.
-- **Wie lange:** solange das Pferd und die Mitgliedschaft bestehen.
+- **Wie lange:** solange das Pferd besteht.
 
-### 4.11 Notfall und Notfall-Mitteilungen
+### 4.11 Notfall und Mitteilungen aufs Handy
 
-- **Was:** Ein Notfall geht von einer Nachricht oder Beobachtung aus. Eine Fachperson kann ihn auch mit einem eigenen Notfall-Hinweis auslösen. Wir speichern, auf welchen Beitrag er sich bezieht, wer ihn ausgelöst hat, wann er ausgelöst wurde, wann er bei uns ankam und ob er noch läuft oder beendet ist. Für „Gesehen“ speichern wir, wann jede Person den Notfall zum ersten Mal gesehen hat.
-- **Ablauf:** Alle beim Pferd sehen in der App ein Banner mit Person und Uhrzeit, höchstens 72 Stunden lang. Danach steht der Notfall nur noch im Verlauf. Beenden dürfen der Besitzer und die Person, die ihn ausgelöst hat, solange sie Zugriff auf das Pferd hat. Pro Pferd sind höchstens 3 Notfälle in 60 Minuten möglich, pro Person höchstens 2. Ist die Grenze erreicht, sagt dir die App das sofort, und der Notfall wird auch später nicht gesendet. Kommt ein Notfall erst mehr als 6 Stunden nach dem Auslösen bei uns an, erscheint er nur im Verlauf, ohne Banner und ohne Mitteilung.
-- **Mitteilung aufs Handy:** Bei einem Notfall bekommen alle aktiven Mitglieder außer der auslösenden Person eine Mitteilung. Die Zustellung läuft über Firebase Cloud Messaging von Google (Abschnitt 7). Dafür speichern wir zu deinem Konto für jedes deiner Handys ein Gerätekennzeichen (Token). Die Mitteilung enthält nur den Namen des Pferdes, Kennungen von Notfall und Pferd und die Uhrzeit. Den angezeigten Text erzeugt erst dein Handy. Text, Fotos oder Diagnosen stehen nie in der Mitteilung. Erlaubst du keine Mitteilungen, siehst du Notfälle nur in der App.
-- **Zustellung:** Erreicht eine Mitteilung dein Handy nicht innerhalb von 6 Stunden, verfällt sie. Schlägt die Übergabe an Google fehl, versuchen wir es höchstens dreimal, nach 1, 5 und 15 Minuten. Zur Kontrolle speichern wir einen Zustellbeleg: ob wir die Mitteilung an Google übergeben haben oder ob das fehlgeschlagen ist. Ob sie auf dem Handy angekommen ist, erfahren wir nicht.
+- **Notfall:** Einen Notfall löst jede Person beim Pferd mit einem Knopf aus. Text ist freiwillig, Fotos können dazukommen. Der Notfall erscheint als rote Nachricht im Chat und als rote Leiste beim Pferd, bis der Besitzer oder die auslösende Person „erledigt“ tippt. Wir speichern ihn wie eine Chat-Nachricht (4.7), dazu das Kennzeichen „Notfall“ und wer ihn wann als erledigt markiert hat. Ein Notfall braucht Internet wie jede andere Aktion; ohne Verbindung zeigt die App „Keine Verbindung“ und sendet nichts.
+- **Mitteilungen aufs Handy:** Bei einem Notfall bekommen alle Mitglieder außer der auslösenden Person eine dringende Mitteilung. Außerdem gibt es Mitteilungen zu neuen Chat-Nachrichten, Tauschanfragen, Besuchen, Anfragen neuer Personen zu deinem Pferd und Entscheidungen über deine eigenen Anfragen. Diese Arten kannst du unter Mehr → Benachrichtigungen einzeln abschalten, Notfall-Mitteilungen nicht. Die Zustellung läuft über Firebase Cloud Messaging von Google (Abschnitt 7). Dafür speichern wir zu deinem Konto für jedes deiner Handys (höchstens 3) ein Gerätekennzeichen (Token), eine Installationskennung, die App-Version, ob Mitteilungen erlaubt sind und wann du die App zuletzt geöffnet hast. Die Mitteilung enthält nur ihre Art und Kennungen, zum Beispiel von Pferd und Nachricht. Den angezeigten Text erzeugt erst dein Handy. Den Namen des Pferdes zeigt es erst, wenn das Handy entsperrt ist; auf dem Sperrbildschirm steht nur ein neutraler Hinweis. Text, Fotos oder Diagnosen stehen nie in der Mitteilung. Erlaubst du keine Mitteilungen, siehst du alles nur in der App.
+- **Zustellung:** Wir übergeben jede Mitteilung einmal an Google; die weitere Zustellung übernimmt Google. Zur Kontrolle speichern wir einen Zustellbeleg: Art der Mitteilung, Empfänger und Gerät und ob die Übergabe an Google geklappt hat. Ob die Mitteilung auf dem Handy angekommen ist, erfahren wir nicht.
 - Mitteilungen können ausbleiben. Ruf bei Gefahr immer sofort den Tierarzt an.
-- **Rechtsgrundlage:** Vertrag. Für die Zustellbelege gilt unser berechtigtes Interesse, Störungen bei Notfall-Mitteilungen zu erkennen.
-- **Wie lange:** Notfall und „Gesehen“ bleiben, bis das Pferd gelöscht wird. Dein „Gesehen“ löschen wir auch mit deinem Konto. Löscht jemand den zugehörigen Beitrag oder die Fachperson ihren Notfall-Hinweis, bleibt der Notfall ohne Text stehen. Zustellbelege löschen wir nach 30 Tagen. Das Gerätekennzeichen löschen wir auf unserem Server, wenn du dich abmeldest, wenn du dein Konto löschst oder wenn Google meldet, dass es nicht mehr gültig ist, etwa nach einer Deinstallation. Meldest du dich in der App ab oder löschst du dort dein Konto, löscht die App Gerätekennzeichen und Installationskennung auch bei Google. Dort kann die Löschung bis zu 180 Tage dauern. Läuft die App nicht mehr, wird das Kennzeichen nicht mehr benutzt und verfällt bei Google nach dessen Regeln.
+- **Rechtsgrundlage:** Vertrag. Für die Zustellbelege gilt unser berechtigtes Interesse, Störungen bei Mitteilungen zu erkennen.
+- **Wie lange:** Notfälle wie Chat-Nachrichten (4.7). Zustellbelege löschen wir nach 30 Tagen. Das Gerätekennzeichen löschen wir auf unserem Server, wenn du dich abmeldest, wenn du die App 90 Tage nicht geöffnet hast, wenn du dein Konto löschst oder wenn Google meldet, dass es nicht mehr gültig ist, etwa nach einer Deinstallation. Bis dahin bekommst du Mitteilungen auch dann, wenn deine Anmeldung abgelaufen ist. Meldest du dich in der App ab, löscht die App Gerätekennzeichen und Installationskennung auch bei Google. Dort kann die Löschung bis zu 180 Tage dauern. Läuft die App nicht mehr, wird das Kennzeichen nicht mehr benutzt und verfällt bei Google nach dessen Regeln.
 
 ### 4.12 Private Bereiche: Kosten, Unterlagen und Notizen (nur für dich)
 
-- **Was:** deine Kosten, Budgets, Rechnungen, Verträge, Versicherungen, Anschaffungs- und Sparpläne, Preisquellen, Dokumente (auch als PDF) und persönlichen Notizen (bis 4.000 Zeichen), auf Wunsch einem Pferd zugeordnet. Dazu speichern wir, zu welchem Konto ein Eintrag gehört, seine Art (zum Beispiel „Rechnung“), den Bezug zu einer Karte in deiner Sammlung, technische Kennungen, bei Dokumenten Größe und Prüfsumme sowie Zeitpunkte.
+- **Was:** deine Kosten, Budgets, Rechnungen, Verträge, Versicherungen, Anschaffungs- und Sparpläne, Preisquellen, Dokumente (auch als PDF) und persönlichen Notizen, auf Wunsch einem Pferd zugeordnet. Dazu speichern wir, zu welchem Konto ein Eintrag gehört, seine Art (zum Beispiel „Rechnung“), den Bezug zu einer Karte in deiner Sammlung, technische Kennungen, bei Dokumenten Größe und Prüfsumme sowie Zeitpunkte.
 - **Wozu:** Damit du deine Kosten und Unterlagen rund um deine Pferde an einem Ort hast.
 - **Wer sieht sie:** nur du. Andere Mitglieder und der Besitzer des Pferdes sehen sie nicht.
-- **Wo und wie geschützt:** Die Einträge liegen in deinem Konto in unserer Datenbank in Frankfurt am Main, Dokumente im privaten Speicher ohne öffentliche Links (Abschnitt 7). Zugriffsrechte sorgen dafür, dass nur dein Konto sie abrufen kann. Die Verbindung ist verschlüsselt. Auf deinem Handy liegt eine Kopie für die Nutzung ohne Internet (Abschnitt 6). Einen eigenen Code brauchst du nicht; du öffnest die privaten Bereiche mit deinem normalen Konto. Wer dein Passwort kennt, kann sie also auch sehen.
+- **Wo und wie geschützt:** Die Einträge liegen in deinem Konto in unserer Datenbank in Frankfurt am Main, Dokumente im privaten Speicher ohne öffentliche Links (Abschnitt 7). Zugriffsrechte sorgen dafür, dass nur dein Konto sie abrufen kann. Die Verbindung ist verschlüsselt. Auf deinem Handy liegt eine Kopie der zuletzt geladenen Einträge (Abschnitt 6). Einen eigenen Code brauchst du nicht; du öffnest die privaten Bereiche mit deinem normalen Konto. Wer dein Passwort kennt, kann sie also auch sehen.
 - **Keine Ende-zu-Ende-Verschlüsselung:** Technisch könnten wir als Betreiber auf den Inhalt zugreifen. Wir tun das nur, wenn es für Betrieb und Sicherheit nötig ist oder wenn du es verlangst, zum Beispiel für eine Kopie deiner Daten (Abschnitt 13). Wir werten den Inhalt nicht aus.
 - Ein Dokument darf höchstens 10 MB groß sein, alle zusammen höchstens 100 MB je Konto.
 - **Rechtsgrundlage:** Vertrag. Private Bereiche nutzt du freiwillig.
-- **Wie lange:** bis du einen Eintrag löschst oder dein Konto gelöscht wird. Endet eine Mitgliedschaft oder wird ein Pferd gelöscht, bleiben deine Einträge erhalten und hängen dann an der Karte in deiner Sammlung.
+- **Wie lange:** bis du einen Eintrag löschst oder dein Konto gelöscht wird. Einen gelöschten Eintrag leeren wir sofort und löschen ihn nach 60 Tagen ganz. Endet eine Mitgliedschaft oder wird ein Pferd gelöscht, bleiben deine Einträge erhalten und hängen dann an der Karte in deiner Sammlung.
 
 ### 4.13 Meine Sammlung
 
-- **Was:** Name des Pferdes, deine Rolle, der Zeitraum und ein kleines Bild als eigene Kopie.
-- **Wozu:** Die Sammlung ist eine Erinnerung, wenn ein Pferd abgegeben oder gelöscht wird oder deine Mitgliedschaft endet. Weitere Daten des Pferdes oder Zugriff darauf gibt es dann nicht mehr. Die Karte siehst nur du.
+- **Was:** Name des Pferdes, deine Rolle, der Zeitraum und das Bild des Pferdes, wie es bei deinem Austritt oder beim Beenden des Pferdes war.
+- **Wozu:** Die Sammlung ist eine Erinnerung, wenn ein Pferd abgegeben oder gelöscht wird oder deine Mitgliedschaft endet. Weitere Daten des Pferdes oder Zugriff darauf gibt es dann nicht mehr. Die Karte und ihr Bild siehst nur du.
 - **Rechtsgrundlage:** Vertrag.
 - **Wie lange:** bis du die Karte entfernst oder dein Konto gelöscht wird. Entfernst du eine Karte, bleibt bis zur Löschung deines Kontos nur ein Vermerk ohne Inhalt, dass sie entfernt wurde.
 
-### 4.14 Übernahme vom Handy und Export
+### 4.14 Übernahme vom Handy und Herunterladen
 
-- **Übernahme:** Daten aus einer früheren Version der App liegen nur auf deinem Handy. In dein Konto kommen sie erst, wenn du sie selbst übernimmst („Daten von diesem Handy übernehmen“ oder eine Sicherungsdatei einlesen). Automatisch wird nichts hochgeladen. Kosten und Unterlagen landen bei der Übernahme in deinen privaten Bereichen. Notizen werden zu privaten Notizen, Fotos kommen in die Galerie des Pferdes. Bei übernommenen Einträgen speichern wir, aus welcher Datei (Format, Version, Prüfsumme) und von welchem alten Eintrag sie stammen. So kommt nichts doppelt an.
-- **Export:** Mit „Alles exportieren“ bekommst du eine ZIP-Datei. Sie enthält alle Daten, die du in deiner Rolle lesen darfst, also auch das, was andere bei deinen Pferden eingetragen haben. Dazu kommen deine Sammlung, deine privaten Bereiche und deine Dateien. Schlüssel und Anmeldedaten sind nicht enthalten. Fehlt etwas, zeigt die App den Export als unvollständig an.
+- **Übernahme:** Pferde aus dem Planer einer früheren Version der App liegen nur auf deinem Handy. In dein Konto kommen sie erst, wenn du sie selbst übernimmst („Daten von diesem Handy übernehmen“). Automatisch wird nichts hochgeladen. Die Übernahme schalten wir mit einem Update frei; bis dahin bleiben die Pferde unverändert auf deinem Handy. Kosten und Unterlagen landen bei der Übernahme in deinen privaten Bereichen. Notizen werden zu privaten Notizen, Fotos kommen in die Galerie des Pferdes. Bei übernommenen Einträgen speichern wir, aus welcher Datei (Format, Version, Prüfsumme) und von welchem alten Eintrag sie stammen. So kommt nichts doppelt an.
+- **Herunterladen:** Mit „Alles herunterladen“ bekommst du eine ZIP-Datei. Sie enthält deine Kontodaten, deine Sammlung, deine privaten Bereiche, deine eigenen Dateien und Fotos, deine Meldungen und Anfragen sowie alles zu den Pferden, deren Besitzer du bist, also auch, was andere dort eingetragen haben. Was du bei Pferden anderer geschrieben hast, ist nicht dabei; eine Kopie davon bekommst du auf Anfrage (Abschnitt 13). Schlüssel und Anmeldedaten sind nicht enthalten. Fehlt etwas, zeigt die App das an.
 - Die ZIP-Datei ist nicht verschlüsselt. Bewahre sie sicher auf.
 - Wählst du Dateien aus, druckst du oder teilst du etwas, nutzt die App die Funktionen deines Handys und die Dienste, die du dafür wählst.
-- **Rechtsgrundlage:** Vertrag. Soweit der Export dein Recht auf Auskunft und Datenübertragbarkeit erfüllt, gilt Art. 6 Abs. 1 lit. c DSGVO in Verbindung mit Art. 15 und 20 DSGVO.
-- **Wie lange:** Eine eigene Zuordnungsliste führen wir nicht. Die App berechnet die neue Kennung aus der alten, und die Herkunftsangaben stehen im übernommenen Eintrag selbst, bei privaten Einträgen in deinen privaten Bereichen. Sie bleiben, solange der Eintrag besteht. Exportdateien verwaltest du selbst.
+- **Rechtsgrundlage:** Vertrag. Soweit das Herunterladen dein Recht auf Auskunft und Datenübertragbarkeit erfüllt, gilt Art. 6 Abs. 1 lit. c DSGVO in Verbindung mit Art. 15 und 20 DSGVO.
+- **Wie lange:** Eine eigene Zuordnungsliste führen wir nicht. Die App berechnet die neue Kennung aus der alten, und die Herkunftsangaben stehen im übernommenen Eintrag selbst, bei privaten Einträgen in deinen privaten Bereichen. Sie bleiben, solange der Eintrag besteht. Heruntergeladene Dateien verwaltest du selbst.
 
 ### 4.15 Meldungen, Anfragen und Anträge
 
-- **Melden:** Nachrichten, Fotos, Beobachtungen und Mitglieder kannst du in der App melden. Wir speichern, was du gemeldet hast und bei welchem Pferd, den Grund, deine Begründung, eine Fallnummer, wann die Meldung eingegangen ist, und dein Konto als meldende Person. Dazu kommt unsere Entscheidung mit Begründung. Meldest du in der App, zeigt sie dir den Eingang sofort mit Aktenzeichen an; eine Meldung per E-Mail bestätigen wir per E-Mail. Die Entscheidung teilen wir dir per E-Mail mit. Die anderen beim Pferd erfahren nicht, dass du gemeldet hast.
+- **Melden:** Nachrichten, Fotos, Beobachtungen und andere Einträge, Mitglieder und das Pferd selbst kannst du in der App melden. Wir speichern, was du gemeldet hast und bei welchem Pferd, einen Prüfwert des gemeldeten Inhalts (damit wir sehen, ob er sich später geändert hat), den Grund, deine Begründung (bis 1.000 Zeichen), bei „Rechtswidriger Inhalt“ deine Bestätigung, dass deine Angaben nach bestem Wissen stimmen, eine Fallnummer, wann die Meldung eingegangen ist, und dein Konto als meldende Person. Dazu kommt unsere Entscheidung mit Begründung. Meldest du in der App, zeigt sie dir den Eingang sofort mit Aktenzeichen an, und du bekommst eine Eingangsbestätigung per E-Mail. Eine Meldung per E-Mail bestätigen wir per E-Mail. Die Entscheidung teilen wir dir per E-Mail mit. Die anderen beim Pferd erfahren nicht, dass du gemeldet hast.
 - **Anfragen und Anträge per E-Mail:** deine Absenderadresse, der Inhalt deiner Nachricht, soweit wir ihn brauchen, und ein kurzer Vermerk, wie wir den Fall erledigt haben.
 - **Rechtsgrundlage:** Für Meldungen gilt unser berechtigtes Interesse an einem sicheren Miteinander und am Schutz vor Missbrauch. Soweit der Digital Services Act (Verordnung (EU) 2022/2065) auf Stall Planner anwendbar ist, verarbeiten wir Meldungen rechtswidriger Inhalte außerdem, um unsere Pflichten aus Art. 16 dieser Verordnung zu erfüllen (Art. 6 Abs. 1 lit. c DSGVO). Für Anträge nach der DSGVO gilt Art. 6 Abs. 1 lit. c in Verbindung mit Art. 12 bis 22 DSGVO. Für allgemeine Anfragen gilt der Vertrag oder unser berechtigtes Interesse, Fragen zu beantworten.
-- **Wie lange:** Anfragen und Anträge 30 Tage nach Erledigung. Einen Löschauftrag für dein Konto, den du zurückziehst, behalten wir bis zur Löschung deines Kontos (Abschnitt 8). Meldungen bleiben bis zu unserer Entscheidung gespeichert. Meldung und Entscheidung löschen wir 6 Monate nach der Entscheidung. Das gilt auch, wenn vorher das Konto der meldenden oder der gemeldeten Person oder das Pferd gelöscht wird: Die Meldung mit Grund und Begründung bleibt dann bis zum Ende dieser Frist. So können wir die Entscheidung nachweisen und Beschwerden dagegen bearbeiten.
+- **Wie lange:** Anfragen und Anträge 30 Tage nach Erledigung. Meldung und Entscheidung löschen wir 6 Monate nach der Entscheidung. Haben wir nach 6 Monaten noch nicht entschieden, schließen und löschen wir die Meldung ebenfalls. Das gilt auch, wenn vorher das Konto der meldenden oder der gemeldeten Person oder das Pferd gelöscht wird: Die Meldung mit Grund und Begründung bleibt dann bis zum Ende dieser Frist, ohne Bezug zum gelöschten Konto. So können wir die Entscheidung nachweisen und Beschwerden dagegen bearbeiten.
 
 ### 4.16 Vertragsnachweise
 
-- **Was:** welche Fassung der Teilnahmebedingungen und der Vereinbarung zum Teststatus du wann angenommen hast und dass wir dir die Bestätigungsmail geschickt haben. Widerrufst du den Vertrag, speichern wir, wann du das getan hast, und den Inhalt deiner Erklärung. Deinen Namen kannst du dabei freiwillig angeben; dann speichern wir ihn mit. Du bekommst eine Bestätigung.
+- **Was:** welche Fassung der Teilnahmebedingungen (mit Prüfsumme) und der Datenschutzerklärung du wann angenommen hast, wann du die besondere Vereinbarung nach Nr. 5 der Teilnahmebedingungen bestätigt hast und ob wir dir die Bestätigungsmail geschickt haben. Widerrufst du den Vertrag, speichern wir, wann deine Erklärung eingegangen ist, und ihren Inhalt. Deinen Namen kannst du dabei freiwillig angeben; dann speichern wir ihn mit. Du bekommst eine Bestätigung per E-Mail.
 - **Wozu:** Wir müssen nachweisen können, welchen Bedingungen du wann zugestimmt hast, und deinen Widerruf bearbeiten.
 - **Rechtsgrundlage:** Vertrag. Nach dem Ende deiner Teilnahme gilt unser berechtigtes Interesse, Ansprüche nachzuweisen oder abzuwehren.
-- **Wie lange:** während deiner Teilnahme. Deinen Namen aus dem Widerruf löschen wir mit deinem Konto. Danach bleibt ein Nachweis ohne Inhalte 3 Jahre ab Ende des Jahres, in dem dein Konto gelöscht wurde.
+- **Wie lange:** während deiner Teilnahme. Deinen Namen aus dem Widerruf löschen wir mit deinem Konto. Danach bleibt ein Nachweis ohne Inhalte 3 Jahre ab Ende des Jahres, in dem dein Konto gelöscht wurde (Abschnitt 8).
 
 ### 4.17 Anmeldeprotokolle, Zugriffsprotokolle und Sicherheit
 
-- **Was:** Der Anmeldedienst unseres Anbieters Supabase protokolliert Anmeldungen und Kontoereignisse mit Zeitpunkt, Art, Konto, IP-Adresse und der Kennung von Gerät und App (User-Agent). Außerdem protokolliert Supabase bei jedem Zugriff der App IP-Adresse, Zeitpunkt, aufgerufene Schnittstelle und User-Agent. Bei der Anmeldung mit Anzeigenamen zählen wir Fehlversuche je Name und je IP-Adresse. Die IP-Adresse speichern wir dafür nur als geheimen Prüfwert. Sperren halten wir mit Zeitpunkt, Grund und der Person fest, die gesperrt hat.
+- **Was:** Der Anmeldedienst unseres Anbieters Supabase protokolliert Anmeldungen und Kontoereignisse mit Zeitpunkt, Art, Konto, IP-Adresse und der Kennung von Gerät und App (User-Agent). Außerdem protokolliert Supabase bei jedem Zugriff der App IP-Adresse, Zeitpunkt, aufgerufene Schnittstelle und User-Agent. Bei zu vielen Anmeldeversuchen bremst der Anmeldedienst weitere Versuche für kurze Zeit. Sperren halten wir mit Zeitpunkt und Grund fest.
 - **Wozu:** Damit erkennen wir Missbrauch, finden Fehler und klären Sicherheitsvorfälle auf, zum Beispiel ob jemand anderes dein Konto benutzt hat.
 - **Rechtsgrundlage:** unser berechtigtes Interesse, dein Konto und den Dienst vor fremdem Zugriff zu schützen und Fehler zu finden.
-- **Wie lange:** Anmeldeereignisse und Zugriffsprotokolle führt Supabase in seinem eigenen Protokollsystem. Eine Kopie in unserer Datenbank legen wir nicht an. In unserem Tarif (Supabase Pro) bewahrt Supabase diese Protokolle 7 Tage auf. Die Zähler für Fehlversuche bei der Anmeldung mit Anzeigenamen löschen wir nach 24 Stunden. Sperrvermerke bleiben, bis das Konto gelöscht ist.
+- **Wie lange:** Anmeldeereignisse und Zugriffsprotokolle führt Supabase in seinem eigenen Protokollsystem. Eine Kopie in unserer Datenbank legen wir nicht an. In unserem Tarif (Supabase Pro) bewahrt Supabase diese Protokolle 7 Tage auf. Sperrvermerke bleiben, bis das Konto gelöscht ist.
 
 ### 4.18 Nutzungszähler und Missbrauchsschutz
 
-- **Was:** je Konto, Tag und Bereich die Zahl der Lese- und Schreibvorgänge, dazu die Grenzen deines Kontos, Zeitpunkte von Warnungen und befristete Ausnahmen mit Grund. Für E-Mails speichern wir einen geheimen Prüfwert deiner Adresse mit der Zahl der Mails. Bei Nachrichten, Bildern, Einladungen und Notfällen erfassen wir nur die Anzahl, nie den Inhalt.
-- **Grenzen:** Lesen bis 300 Vorgänge pro Minute und 50.000 pro Tag, Schreiben bis 60 pro Minute und 5.000 pro Tag. In den ersten 7 Tagen gelten doppelte Tageswerte. An dieselbe Adresse schicken wir höchstens 3 E-Mails pro Stunde und 6 pro Tag. Normale Nutzung erreicht diese Grenzen praktisch nie. Die Lese- und Schreibgrenzen aktivieren wir erst bei Bedarf. Bis dahin zählen wir nur. Wird eine Grenze erreicht, bremst die App kurz oder pausiert eine Funktion bis zum nächsten Tag und zeigt dir das an.
+- **Was:** je Tag die Zahl der Änderungen je Pferd sowie je Konto die Zahl deiner Chat-Nachrichten, neuen Einladungslinks, geöffneten Einladungen, Meldungen und neu angelegten Pferde, dazu Zeitpunkte von Warnungen. Bei Nachrichten, Bildern, Einladungen und Notfällen erfassen wir nur die Anzahl, nie den Inhalt.
+- **Grenzen:** je Pferd bis 1.000 Änderungen am Tag. Je Konto bis 500 Chat-Nachrichten, 20 neue Einladungslinks, 50 geöffnete Einladungen, 10 Meldungen, 10 neue Pferde und 30 neue Fotos am Tag. Eine Nachricht hat höchstens 2.000 Zeichen und 4 Fotos. Je Konto gibt es höchstens 3 Handys für Mitteilungen, 5 eigene Pferde und 200 MB Fotos, je Pferd höchstens 20 Mitglieder. Normale Nutzung erreicht diese Grenzen praktisch nie. Wird eine Tagesgrenze erreicht, pausiert die Funktion bis zum nächsten Tag, und die App zeigt dir das an. Zum Schutz des Dienstes können wir außerdem das Schreiben für alle kurz anhalten, etwa bei einer Wartung oder einem Angriff. Dann sind auch neue Registrierungen und das Einlösen von Einladungslinks pausiert. Auch das zeigt dir die App an.
 - **Wozu:** Ein Fehler in der App, ein gestohlener Zugang oder ein Angriff soll den Dienst nicht für alle lahmlegen. Die Zahlen nutzen wir nicht für Werbung und nicht, um Personen zu bewerten.
-- **Rechtsgrundlage:** unser berechtigtes Interesse, den gemeinsamen Dienst und den E-Mail-Versand vor Überlastung und Missbrauch zu schützen.
-- **Wie lange:** Zahlen je Konto höchstens 30 Tage, danach nur zusammengefasst ohne Personenbezug. Prüfwerte von E-Mail-Adressen 7 Tage. Löschen wir dein Konto, löschen wir deine Zähler mit.
+- **Rechtsgrundlage:** unser berechtigtes Interesse, den gemeinsamen Dienst vor Überlastung und Missbrauch zu schützen.
+- **Wie lange:** Zahlen je Konto oder Pferd höchstens 30 Tage, danach nur zusammengefasst ohne Personenbezug. Löschen wir dein Konto, löschen wir deine Zähler mit.
 
 ### 4.19 Überwachung des Betriebs
 
-- **Was:** nur Zahlen ohne Personenbezug, zum Beispiel die Zahl der Registrierungen, der fehlgeschlagenen Anmeldungen oder der nicht zugestellten Notfall-Mitteilungen. Die Warnmails an uns enthalten keine Namen, Adressen oder Kontonummern.
+- **Was:** technische Ereignisse und Zahlen, zum Beispiel fehlgeschlagene Mitteilungen, nicht zugestellte E-Mails oder fehlgeschlagene Wartungsschritte. Sie enthalten keine Namen, Adressen oder Inhalte, teilweise aber technische Kennungen. Die Warnmails an uns enthalten keine Namen oder Adressen.
 - **Wozu:** Damit bemerken wir Störungen und Angriffe früh.
 - **Rechtsgrundlage:** unser berechtigtes Interesse an einem sicheren und verfügbaren Betrieb.
 - **Wie lange:** 90 Tage.
 
 ### 4.20 Auswertung für die Weiterentwicklung
 
-- **Was:** die Nutzungszähler aus 4.18 und die Zahl aktiver Konten. Wir sehen uns zum Beispiel an, wie viele Termine, Nachrichten oder Besuchsanfragen es gibt.
+- **Was:** die Nutzungszähler aus 4.18, die Zahl aktiver Konten und welche App-Versionen genutzt werden. Wir sehen uns zum Beispiel an, wie viele Termine, Nachrichten oder Besuchsanfragen es gibt.
 - **So werten wir aus:** nur zusammengefasst. Einzelne Konten werten wir nicht aus. Was du in Textfelder oder in den Chat schreibst und deine Fotos werten wir nie aus. Konten von Jugendlichen unter 18 fließen nur in Zusammenfassungen über mindestens 5 Konten ein.
 - **Rechtsgrundlage:** unser berechtigtes Interesse, Stall Planner zu verbessern.
 - **Wie lange:** Zahlen je Konto höchstens 30 Tage. Zusammenfassungen ohne Personenbezug bewahren wir ohne feste Frist auf.
@@ -203,18 +202,18 @@ Bei jedem Pferd hat jede Person eine Rolle: Besitzer (hat das Pferd angelegt), R
 
 ### 4.21 Datensicherungen
 
-- **Was:** der Inhalt der Online-Datenbank mit Konto- und Protokolldaten, auch die Einträge deiner privaten Bereiche. Bilder und Dokumente sichern wir nicht. Willst du sie sicher behalten, nutze den Export (4.14). Gehen sie durch einen Fehler bei uns verloren, können wir sie nicht zurückholen.
-- **So sichern wir:** Supabase erstellt täglich eine Sicherung.
+- **Was:** der Inhalt der Online-Datenbank mit Konto- und Protokolldaten, auch die Einträge deiner privaten Bereiche. Bilder und Dokumente sichern wir nicht. Willst du sie sicher behalten, nutze „Alles herunterladen“ (4.14). Gehen sie durch einen Fehler bei uns verloren, können wir sie nicht zurückholen.
+- **So sichern wir:** Supabase erstellt täglich eine Sicherung. Bevor wir etwas am Server ändern, kopieren wir die betroffenen Tabellen zusätzlich in derselben Datenbank. Vor großen Umstellungen legen wir außerdem eine vollständige, verschlüsselte Kopie auf einem Rechner des Betreibers ab.
 - **Wozu:** Damit können wir Daten nach einem Fehler wiederherstellen. Nach einer Wiederherstellung führen wir zuerst alle Löschungen erneut aus, die seit der Sicherung passiert sind. Erst dann geben wir den Zugang wieder frei.
 - **Rechtsgrundlage:** unser berechtigtes Interesse, Daten vor Verlust zu schützen.
-- **Wie lange:** Sicherungen bei Supabase 7 Tage. Gelöschte Daten können deshalb bis zu 7 Tage in einer Sicherung stehen.
+- **Wie lange:** Sicherungen bei Supabase 7 Tage, Kopien vor Änderungen am Server höchstens 7 Tage. Die Kopie auf dem Rechner des Betreibers löschen wir, sobald die Umstellung geprüft ist, spätestens nach 30 Tagen. Gelöschte Daten können deshalb bis zu 7 Tage in einer Sicherung stehen.
 
-### 4.22 Installation über Google Play
+### 4.22 Installation über Google Play und geschlossener Test
 
-- **Was:** die E-Mail-Adresse deines Google-Kontos auf der Testerliste in Google Play. Die Einladung zum Test mit dem Link zu Google Play schicken wir dir per E-Mail. Über die Play Console zeigt uns Google zusammengefasste Zahlen zu Installationen und Bewertungen. Hast du Google erlaubt, Diagnosedaten zu senden, sehen wir dort auch Absturzberichte ohne Namen.
-- **Wozu:** Damit stellen wir dir die App im Test bereit und erkennen Fehler.
-- **Rechtsgrundlage:** Vertrag. Für die Absturzberichte gilt unser berechtigtes Interesse, Fehler in der App zu finden.
-- **Wie lange:** Von der Testerliste entfernen wir dich am Ende deiner Teilnahme. Für Google Play, dein Google-Konto und die Daten in der Play Console ist Google selbst verantwortlich (Abschnitt 7).
+- **Was:** Vor der Veröffentlichung läuft ein geschlossener Test. Dafür trittst du der Google-Gruppe stall-planner-tester@googlegroups.com bei; beitreten darf jede Person. Danach installierst du die App über den Test-Link in Google Play und registrierst dich in der App ganz normal. Die Mitgliederliste der Gruppe und ihre Unterhaltungen sieht nur der Betreiber als Inhaber der Gruppe, andere Mitglieder sehen sie nicht. Wir sehen dabei die E-Mail-Adresse deines Google-Kontos und den Namen, den du bei Google hinterlegt hast. Wir nutzen diese Angaben nur, um den Test zu verwalten, und verknüpfen sie nicht mit deinem Konto in der App. Nach der Veröffentlichung installierst du die App wie jede andere über Google Play. Über die Play Console zeigt uns Google zusammengefasste Zahlen zu Installationen und Bewertungen. Hast du Google erlaubt, Diagnosedaten zu senden, sehen wir dort auch Absturzberichte ohne Namen.
+- **Wozu:** Damit stellen wir dir die App bereit und erkennen Fehler.
+- **Rechtsgrundlage:** Für die Bereitstellung der App der Vertrag. Für die Mitgliedschaft in der Google-Gruppe unser berechtigtes Interesse, die App vor der Veröffentlichung mit einer freiwillig teilnehmenden Gruppe zu testen. Für die Absturzberichte gilt unser berechtigtes Interesse, Fehler in der App zu finden.
+- **Wie lange:** Aus der Google-Gruppe kannst du jederzeit austreten. Die Gruppe löschen wir, wenn der geschlossene Test endet. Google-Gruppen und Google Play betreibt Google als eigene Dienste nach seinen Bedingungen; für dein Google-Konto, die Speicherung in Google-Gruppen und Google Play sowie die Daten in der Play Console ist Google selbst verantwortlich (Abschnitt 7).
 
 ### 4.23 Preisabruf beim Händler
 
@@ -232,27 +231,31 @@ Bei jedem Pferd hat jede Person eine Rolle: Besitzer (hat das Pferd angelegt), R
 
 ## 5. Wer deine Daten sieht
 
-- Alle aktiven Mitglieder eines Pferdes sehen Nachrichten, Fotos im Chat, Beobachtungen, Notfälle und die Galerie. Schreiben können im Chat Besitzer, Reitbeteiligung und Stall. Die Fachperson liest mit.
-- Besitzer und Reitbeteiligungen sehen sich gegenseitig mit Anzeigename, Profilbild und Rolle. Reittage, Ruhetage, Ab- und Anwesenheit, Tauschanfragen und die Einkaufsliste mit Preisen sehen nur sie.
-- Der Besitzer sieht alles zu seinem Pferd, auch die Mitgliederliste, offene Einladungen und Anfragen sowie alle Besuchsanfragen mit Zeiten und Notizen. Er bestätigt und entfernt Mitglieder.
-- Die Reitbeteiligung sieht die Mitgliederliste, das Hauptbild des Pferdes, die Pläne, die Gesundheitsangaben, die Kontakte und die Ausrüstung. Stammdaten und Ausrüstung ändert nur der Besitzer.
-- Stall und Fachperson sehen keine Mitgliederliste und nicht das Hauptbild des Pferdes, wohl aber die Galerie. Bei Beiträgen sehen sie Namen und Profilbild der Person, von der der Beitrag stammt. Im Kalender und im Verlauf sieht jede Person nur, was ihre Rolle im jeweiligen Bereich sehen darf.
-- Wer eingeladen ist und noch nicht bestätigt wurde, sieht nur den Namen des Pferdes, den Namen des Besitzers, die Rolle und den Ablauf, ohne Bilder.
-- Wann jemand einen Notfall gesehen hat, sehen nur diese Person selbst, die Person, die den Notfall ausgelöst hat, und der Besitzer.
-- Deine privaten Bereiche und deine Altersgruppe sieht niemand außer dir. E-Mail-Adressen anderer Mitglieder sieht niemand. Nur der Besitzer sieht bei Einladungen per Code die Adresse, die er selbst eingegeben hat.
+- Alle aktiven Mitglieder eines Pferdes sehen Nachrichten mit Fotos, Beobachtungen, Notfälle, das Hauptbild, die Galerie, die Mitglieder mit Benutzername, Profilbild und Rolle sowie alle Besuche mit Zeiten, Notizen und Verlauf. Im Chat schreiben können alle Mitglieder.
+- Neue Mitglieder sehen auch, was vor ihrem Beitritt geschrieben und eingetragen wurde, soweit ihre Rolle den jeweiligen Bereich sehen darf.
+- Besitzer und Reitbeteiligungen sehen außerdem den Steckbrief des Pferdes, Pläne, Gesundheitsangaben, Kontakte, Termine, Kalender, Training, Ausrüstung, Reittage, Ruhetage, Ab- und Anwesenheit, Tauschanfragen und die Einkaufsliste mit Preisen. Die Reitbeteiligung darf fast alles ändern; fremde Gesundheits- und Medikamenteneinträge löscht nur der Besitzer. Stammdaten und Hauptbild ändert nur der Besitzer. Die Ausrüstung pflegt in der App der Besitzer; die Reitbeteiligung meldet, was fehlt, kaputt ist oder sich ändern soll.
+- Der Besitzer sieht alles zu seinem Pferd, auch offene Einladungslinks und die Anfragen dazu. Er bestätigt, ändert und entfernt Mitglieder.
+- Der Stall sieht Futter-, Medikamenten- und Pflegepläne und hakt sie ab, sieht Allergien und Kontakte (zum Beispiel Tierarzt oder Hufschmied) und alle Termine. Er trägt eigene Termine ein und ändert nur diese. Reittage, Einkaufsliste, Ausrüstung und Befunde sieht er nicht.
+- Die Fachperson sieht außer Chat, Galerie, Mitgliedern und Besuchen nur die Bereiche, die der Besitzer ihr freigibt, zum Beispiel Gesundheit oder Kalender. Dort trägt sie Befunde und Termine ein.
+- Wer eine Einladung geöffnet hat und noch nicht bestätigt wurde, sieht nur den Namen des Pferdes, den Benutzernamen des Besitzers und die Rolle.
+- Deine privaten Bereiche und deine Geburtsangabe sieht niemand außer dir. E-Mail-Adressen anderer Mitglieder sieht niemand.
 - Wer etwas gemeldet hat, erfahren nur wir.
 - Nach einem Austritt oder Entfernen sieht die Person das Pferd nicht mehr. Ihr Zugriff auf den Server endet sofort.
 - Wir selbst greifen auf Daten nur zu, soweit Betrieb, Sicherheit, Meldungen oder Anträge das erfordern. Das gilt auch für deine privaten Bereiche. Sie sind nicht Ende-zu-Ende-verschlüsselt, technisch könnten wir sie also lesen (4.12).
 
+Warum so viel sichtbar ist: Wer sich mit um ein Pferd kümmert, muss wissen, was vorher war und wer wann kommt. Neue Mitglieder sehen deshalb den bisherigen Chat und Verlauf, sonst fehlen ihnen zum Beispiel Hinweise zu Medikamenten oder Verletzungen. Besuche mit Zeit und Notiz sehen alle beim Pferd, damit sich niemand doppelt einplant und der Stall weiß, wer kommt. Grundlage dafür ist der Vertrag und unser berechtigtes Interesse an einer vollständigen gemeinsamen Planung zum Wohl des Pferdes. Schreib deshalb in Besuchsnotizen nur, was alle beim Pferd wissen dürfen. Wer bei einem Pferd ist, bestimmt allein der Besitzer, und jede Person kann jederzeit austreten.
+
 ## 6. Daten auf den Handys (Offline)
 
-Damit die App auch ohne Internet funktioniert, speichert sie die Daten deiner Pferde verschlüsselt auf den Handys aller, die Zugriff auf diese Pferde haben. Jedes Handy bekommt nur das, was die jeweilige Rolle sehen darf (Abschnitt 5). Den Schlüssel dafür verwahrt der Android-Schlüsselspeicher. Fotos und Dokumente lädt die App erst beim Anzeigen.
+Damit die App auch ohne Internet etwas zeigt, speichert sie die zuletzt geladenen Daten deiner Pferde und zuletzt angesehene Fotos auf den Handys aller, die Zugriff auf diese Pferde haben. Jedes Handy bekommt nur das, was die jeweilige Rolle sehen darf (Abschnitt 5). Die Daten liegen im geschützten Speicher der App, den Android von anderen Apps abschirmt. Eine eigene, zusätzliche Verschlüsselung hat die App nicht. Dokumente lädt die App erst beim Öffnen.
 
-Das hat eine Folge, die du kennen solltest: Die Kopie liegt auch auf Handys ohne Bildschirmsperre. Wer ein solches Handy in die Hand bekommt, kann die Daten in der App sehen. Das gilt auch für deine eigenen privaten Bereiche auf deinem Handy, denn die App zeigt sie ohne zusätzliche Entsperrung. Die App weist dich darauf hin, wenn sie fremde Daten auf einem Handy ohne sichere Sperre speichert. Eine Sperre erzwingen kann sie nicht. Schütze dein Handy deshalb mit einer Bildschirmsperre.
+Das hat eine Folge, die du kennen solltest: Wer ein Handy ohne Bildschirmsperre in die Hand bekommt, kann die Daten in der App sehen. Das gilt auch für deine eigenen privaten Bereiche auf deinem Handy, denn die App zeigt sie ohne zusätzliche Entsperrung. Die App weist dich darauf hin, wenn sie Daten anderer auf einem Handy ohne Bildschirmsperre zeigt. Eine Sperre erzwingen kann sie nicht. Schütze dein Handy deshalb mit einer Bildschirmsperre.
 
-Ohne Verbindung blendet die App die Daten nach 30 Tagen aus. Nach 45 Tagen sendet sie vorgemerkte Änderungen nicht mehr, und nach 60 Tagen löscht sie die Daten. Entziehst du jemandem den Zugriff oder löschst du dein Konto, verschwinden die Daten auf anderen Handys, sobald diese wieder online sind, spätestens nach diesen Fristen. Kommt ein Handy wieder online, löscht die App zuerst, was nicht mehr auf dem Handy sein darf, und zeigt erst danach etwas an.
+Abmelden löscht diese Daten nicht. Meldest du dich ab, bleiben sie auf dem Handy und sind wieder da, wenn du dich mit demselben Konto anmeldest. Ein anderes Konto auf demselben Handy sieht sie nicht. Willst du sie entfernen, lösch in den Android-Einstellungen die Daten der App oder deinstalliere sie.
 
-Ohne Internet kann die App einen Notfall nicht sofort senden. Bis er bei uns ankommt, erfährt niemand beim Pferd davon. Ruf bei Gefahr sofort den Tierarzt an.
+Hat die App 30 Tage keine Verbindung zum Server, löscht sie die Kopie dieses Kontos auf dem Handy. Ohne Netz kannst du abhaken, Training als erledigt eintragen, kurze Chat-Nachrichten und Beobachtungen ohne Foto schreiben und die Einkaufsliste führen. Diese Einträge merkt sich die App und sendet sie von selbst, sobald wieder Netz da ist. Bis dahin bleiben sie auf dem Handy, ohne feste Frist. Alles andere braucht Netz. Entziehst du jemandem den Zugriff oder löschst du dein Konto, löscht die App die Daten des Pferdes auf anderen Handys, sobald diese wieder online sind, sonst spätestens nach 30 Tagen ohne Verbindung.
+
+Ohne Internet kann die App keinen Notfall senden. Ruf bei Gefahr sofort den Tierarzt an.
 
 Für diese Kopien bleiben wir verantwortlich. Was andere mit dir teilen, darfst du nur für die gemeinsame Planung nutzen (Teilnahmebedingungen Nr. 9). Rechtsgrundlage ist der Vertrag.
 
@@ -262,16 +265,16 @@ Wir setzen nur wenige Dienstleister ein. Wo sie in unserem Auftrag arbeiten, hab
 
 Einige Dienstleister sitzen außerhalb der EU oder verarbeiten Daten dort. Für Singapur gibt es keinen Angemessenheitsbeschluss der EU-Kommission. Grundlage für Übermittlungen in Länder außerhalb der EU sind deshalb die Standardvertragsklauseln der EU-Kommission. Für Anbieter in den USA gilt außerdem der Angemessenheitsbeschluss der EU-Kommission zum EU-US Data Privacy Framework. Plus Five Five, Inc. (Resend), Google LLC, GitHub, Inc. und Cloudflare, Inc. sind danach zertifiziert.
 
-- **Supabase** (Supabase Pte. Ltd., Singapur): Online-Datenbank, Anmeldung, Rechteprüfung, privater Speicher für Bilder und Dokumente, Datensicherungen und Server-Funktionen. Dazu gehört auch der Versand der Notfall-Mitteilungen an Google. Datenbank und Dateien liegen in Frankfurt am Main (Rechenzentrum von Amazon Web Services, Region eu-central-1). Supabase selbst sitzt in Singapur und setzt weitere Dienstleister ein, zum Beispiel Cloudflare (Cloudflare, Inc., USA) für das Netz vor dem Server. Dabei können Verbindungsdaten wie deine IP-Adresse und, etwa bei Support oder Wartung, auch Inhalte in Singapur, in den USA oder in anderen Ländern verarbeitet werden.
-- **Resend** (Plus Five Five, Inc., USA): Versand unserer E-Mails, also Codes, Sicherheitshinweise, die Einladung zum Test mit dem Link zu Google Play, Bestätigungen, Mitteilungen zu Meldungen und die Info-Mail für Eltern. Resend erhält Absender, Empfängeradresse und den Inhalt der Mail und speichert Versandprotokolle in den USA.
-- **Google Firebase Cloud Messaging** (Google Ireland Limited, Irland, und Google LLC, USA): Zustellung der Notfall-Mitteilungen (4.11). Google erhält dafür das Gerätekennzeichen, eine Installationskennung, technische Angaben zu App und Gerät, den Inhalt der Mitteilung und Verbindungsdaten wie die IP-Adresse. Chat-Texte, Fotos oder Diagnosen erhält Google nicht. Eine Speicherung in der EU sagt Google nicht zu. Von Firebase nutzen wir nur den Mitteilungsdienst, kein Analytics, kein Crashlytics und keine Werbe-ID.
-- **Google Workspace** (Google Cloud EMEA Limited, Irland): unser E-Mail-Postfach für Nachrichten an unsere Adressen. Außerdem nutzen wir Google Drive als Ablage für die Löschliste (Abschnitt 8). Die Löschliste verschlüsseln wir mit AES-256, bevor sie an Google geht. Den Schlüssel bewahren wir getrennt auf. Google kann den Inhalt deshalb nicht lesen. Google kann Daten auch in den USA und in anderen Ländern verarbeiten.
-- **Google Play** (Google Ireland Limited, Irland): Verteilung der App im Test. Für Google Play, dein Google-Konto und die Play Console ist Google selbst verantwortlich: https://policies.google.com/privacy
+- **Supabase** (Supabase Pte. Ltd., Singapur): Online-Datenbank, Anmeldung, Rechteprüfung, Benachrichtigung der App über Änderungen, privater Speicher für Bilder, Dokumente und die Löschliste, Datensicherungen und Server-Funktionen. Dazu gehört auch die Übergabe der Mitteilungen an Google. Datenbank und Dateien liegen in Frankfurt am Main (Rechenzentrum von Amazon Web Services, Region eu-central-1). Supabase selbst sitzt in Singapur und setzt weitere Dienstleister ein, zum Beispiel Cloudflare (Cloudflare, Inc., USA) für das Netz vor dem Server. Dabei können Verbindungsdaten wie deine IP-Adresse und, etwa bei Support oder Wartung, auch Inhalte in Singapur, in den USA oder in anderen Ländern verarbeitet werden.
+- **Resend** (Plus Five Five, Inc., USA): Versand unserer E-Mails, also Codes, Bestätigungen zu Vertrag, Widerruf, Meldungen und Löschauftrag, die Info-Mail für Eltern und Warnmails an uns. Resend erhält Absender, Empfängeradresse und den Inhalt der Mail und speichert Versandprotokolle in den USA.
+- **Google Firebase Cloud Messaging** (Google Ireland Limited, Irland, und Google LLC, USA): Zustellung der Mitteilungen aufs Handy (4.11). Google erhält dafür das Gerätekennzeichen, eine Installationskennung, technische Angaben zu App und Gerät, den Inhalt der Mitteilung (Art und Kennungen) und Verbindungsdaten wie die IP-Adresse. Chat-Texte, Fotos, Namen von Pferden oder Diagnosen erhält Google nicht. Eine Speicherung in der EU sagt Google nicht zu. Von Firebase nutzen wir nur den Mitteilungsdienst, kein Analytics, kein Crashlytics und keine Werbe-ID.
+- **Google Workspace** (Google Cloud EMEA Limited, Irland): unser E-Mail-Postfach für Nachrichten an unsere Adressen. Google kann Daten auch in den USA und in anderen Ländern verarbeiten.
+- **Google Play und Google-Gruppen** (Google Ireland Limited, Irland): Verteilung der App und, vor der Veröffentlichung, die Google-Gruppe stall-planner-tester@googlegroups.com für den geschlossenen Test. Diese Dienste nutzen wir wie alle Nutzer zu Googles Bedingungen. Google arbeitet dabei nicht in unserem Auftrag, sondern ist für Google Play, Google-Gruppen, dein Google-Konto und die Play Console selbst verantwortlich: https://policies.google.com/privacy
 - **GitHub** (GitHub, Inc., USA): Hosting der Webseite und der Einladungsseite (GitHub Pages). Für seine Sicherheitsprotokolle mit IP-Adressen ist GitHub selbst verantwortlich: https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
 - **Andere Mitglieder** eines geteilten Pferdes und ihre Handys (Abschnitte 5 und 6).
 - **Behörden und Gerichte**, aber nur, wenn wir gesetzlich dazu verpflichtet sind.
 
-Teilt ein Besitzer einen Einladungslink oder einen Einladungscode, wählt er selbst die App dafür, zum Beispiel einen Messenger. Diese App arbeitet nicht in unserem Auftrag.
+Teilt ein Besitzer einen Einladungslink, wählt er selbst die App dafür, zum Beispiel einen Messenger. Diese App arbeitet nicht in unserem Auftrag.
 
 Eine Kopie der Standardvertragsklauseln schicken wir dir auf Anfrage. Mehr zu den Garantien findest du hier: https://supabase.com/legal/dpa, https://resend.com/legal/dpa, https://cloud.google.com/terms/data-processing-addendum, https://firebase.google.com/terms/data-processing-terms
 
@@ -281,45 +284,47 @@ Resend speichert Versandprotokolle und die Inhalte der Mails 30 Tage. Unsere Web
 
 ### Konto löschen
 
-In der App löschst du dein Konto unter Mehr → Konto → „Konto löschen“. Zur Bestätigung gibst du „LÖSCHEN“ und dein Passwort ein. Dein Löschauftrag ist dann sofort bei uns. Wir löschen dein Konto in der Regel innerhalb von 7 Tagen, spätestens nach einem Monat. Willst du deine Daten behalten, lade vorher mit „Alles exportieren“ eine Kopie herunter (4.14).
+In der App löschst du dein Konto unter Mehr → Konto → „Konto löschen“. Die App zeigt dir vorher, was dabei passiert, und fragt noch einmal nach. Dann ist dein Löschauftrag sofort bei uns, und du bekommst eine Bestätigung per E-Mail mit dem Löschtag. Ab dann ist dein Konto gesperrt. 14 Tage lang kannst du es dir anders überlegen und in der App „Konto behalten“ wählen. Danach löschen wir dein Konto automatisch. Willst du deine Daten behalten, lade vorher mit „Alles herunterladen“ eine Kopie herunter (4.14).
 
 Ohne App geht es über https://stallplanner.de/konto-loeschen.html oder mit einer E-Mail an datenschutz@stallplanner.de. Wir prüfen dann, ob die Anfrage von dir kommt, sperren dein Konto und löschen es in der Regel innerhalb von 7 Tagen, spätestens nach einem Monat. Bitte schick uns keine Ausweiskopie, wenn wir nicht ausdrücklich danach fragen.
 
-Ziehst du einen Löschauftrag zurück, bevor wir ihn ausgeführt haben, behalten wir ihn mit Zeitpunkten, Begründung und den betroffenen Pferden, bis dein Konto gelöscht wird. So können wir nachweisen, dass du die Löschung nicht mehr wolltest. Rechtsgrundlage ist unser berechtigtes Interesse an der Rechenschaft nach Art. 5 Abs. 2 DSGVO.
+Ziehst du einen Löschauftrag zurück, behalten wir ihn mit Zeitpunkten noch 30 Tage. So können wir nachweisen, dass du die Löschung nicht mehr wolltest. Rechtsgrundlage ist unser berechtigtes Interesse an der Rechenschaft nach Art. 5 Abs. 2 DSGVO.
 
 ### Was beim Löschen passiert
 
 Wir löschen:
 
-- dein Konto mit Anzeigename, Profilbild und Altersgruppe,
+- dein Konto mit Benutzername, Profilbild und Geburtsangabe,
+- deine Anmeldedaten und deinen Eintrag auf der Zugangsliste,
 - deine Mitgliedschaften,
-- deine Pferde mit allen gemeinsamen Daten, Bildern, der Galerie und den Einladungen,
-- deine Sammlung und deine Besuchsanfragen,
+- deine Pferde mit allen gemeinsamen Daten, Bildern, der Galerie, den Einladungen und dem Verlauf,
+- alle Fotos, die du hochgeladen hast, auch Chat- und Galeriefotos bei Pferden anderer,
+- deine Sammlung,
 - deine privaten Bereiche mit Dokumenten,
-- dein „Gesehen“ zu Notfällen und deine Gerätekennzeichen für Mitteilungen,
-- deine Zähler und Prüfwerte zum Missbrauchsschutz.
+- deine Gerätekennzeichen und Einstellungen für Mitteilungen,
+- deine Zähler zum Missbrauchsschutz.
 
-Bei Pferden anderer verschwinden deine künftigen Reittage, Anwesenheiten und offenen Tauschanfragen.
+Bei Pferden anderer sind dir zugeteilte Reittage und Aufgaben danach niemandem mehr zugeteilt.
 
 Meldungen, die du abgegeben hast oder die deine Beiträge betreffen, bleiben bis zum Ende ihrer Frist, also 6 Monate nach unserer Entscheidung (4.15).
 
-Bist du Besitzer, verschwinden mit deinem Pferd auch die Beiträge der anderen Mitglieder. Für Rückfragen der anderen und zur Korrektur von Fehlern bleibt höchstens 30 Tage ein verkleinertes Archiv ihrer Beiträge, ohne Notizen und ohne Bezug zu deinem Konto. Länger nur, wenn es einen konkreten und dokumentierten Grund gibt, zum Beispiel einen laufenden Streit. Rechtsgrundlage ist unser berechtigtes Interesse, Fragen der Beteiligten beantworten zu können.
+Bist du Besitzer, löschen wir deine Pferde am Löschtag endgültig, auch mit den Beiträgen der anderen Mitglieder. Ein Archiv für Rückfragen gibt es nicht. Die anderen sehen das Pferd danach nicht mehr.
 
-Auf den Handys anderer verschwinden deine Daten beim nächsten Abgleich, spätestens nach 60 Tagen (Abschnitt 6).
+Auf den Handys anderer verschwinden deine Daten beim nächsten Abgleich, spätestens nach 30 Tagen ohne Verbindung (Abschnitt 6).
 
-In Datensicherungen bleiben gelöschte Daten, solange die Sicherungen aufbewahrt werden, also höchstens 7 Tage. Damit sie bei einer Wiederherstellung nicht zurückkommen, führen wir eine Löschliste. Darin steht, welches Konto wann gelöscht wurde, bei Bildern und Pferden auch technische Kennungen und Prüfwerte, aber keine Inhalte und keine Fotos. Die Löschliste liegt in der Datenbank und verschlüsselt in Google Drive (Abschnitt 7). Wir löschen sie einen Tag, nachdem die letzte Sicherung mit diesen Daten gelöscht wurde.
+In Datensicherungen bleiben gelöschte Daten, solange die Sicherungen aufbewahrt werden, also höchstens 7 Tage. Damit sie bei einer Wiederherstellung nicht zurückkommen, führen wir eine Löschliste. Darin stehen ein geheimer Prüfwert deines Kontos und technische Kennungen von Konto, Pferden und Bildern, aber keine Inhalte und keine Fotos. Die Löschliste liegt in der Datenbank und als Datei ohne Inhalte in unserem privaten Speicher bei Supabase (Abschnitt 7). Wir löschen sie einen Tag, nachdem die letzte Sicherung mit diesen Daten abgelaufen ist.
 
-Damit wir nachweisen können, dass wir gelöscht haben, behalten wir einen Löschnachweis ohne Inhalte 3 Jahre ab Ende des Jahres der Löschung. Er enthält statt deiner Adresse oder Kontonummer nur einen geheimen Prüfwert sowie Art und Zeitpunkt der Löschung. Rechtsgrundlage ist unser berechtigtes Interesse an der Rechenschaft nach Art. 5 Abs. 2 DSGVO und an der Abwehr von Ansprüchen.
+Damit wir nachweisen können, welchen Bedingungen du zugestimmt hast und dass wir gelöscht haben, behalten wir einen Nachweis ohne Inhalte 3 Jahre ab Ende des Jahres der Löschung. Er enthält statt deiner Adresse oder Kontonummer nur einen geheimen Prüfwert, die Kennungen deiner Zustimmungen und den Zeitpunkt der Löschung. Rechtsgrundlage ist unser berechtigtes Interesse an der Rechenschaft nach Art. 5 Abs. 2 DSGVO und an der Abwehr von Ansprüchen.
 
-Exportdateien auf deinem Handy löschst du selbst.
+Heruntergeladene Dateien auf deinem Handy löschst du selbst.
 
 ### Deine Beiträge bei Pferden anderer
 
-Deine Beiträge bei Pferden anderer bleiben für die anderen sichtbar. Dazu gehören Nachrichten mit Fotos, Beobachtungen, Trainings, Gesundheits- und Ausrüstungseinträge mit Kontakten und Anfragen, Planänderungen, Erledigt-Vermerke mit Notizen, Korrekturen, Einträge auf der Einkaufsliste und Käufe, Reitplanung und Notfälle, die du ausgelöst oder beendet hast. Statt deines Namens steht dort „Ehemaliges Mitglied“, ohne Bild. Intern bleibt an Fotos eine technische Kennung gespeichert, damit wir den Speicher verwalten können. Sie ist für niemanden in der App sichtbar. Das ist nicht anonym: Aus Inhalt, Fotos oder Zeitpunkten kann man dich vielleicht erkennen.
+Deine Beiträge bei Pferden anderer bleiben für die anderen sichtbar. Dazu gehören Nachrichten, Beobachtungen, Trainings, Gesundheits- und Ausrüstungseinträge mit Kontakten und Anfragen, Termine, Besuche, Planänderungen, Erledigt-Vermerke mit Notizen, Korrekturen, Einträge auf der Einkaufsliste und Käufe, Reitplanung, Notfälle, die du ausgelöst oder beendet hast, und Einträge im Verlauf. Fotos, die du hochgeladen hast, löschen wir dagegen mit deinem Konto. Statt deines Namens steht dort „Ehemaliges Mitglied“, ohne Bild. Das ist nicht anonym: Aus Inhalt oder Zeitpunkten kann man dich vielleicht erkennen.
 
 Wir behalten diese Beiträge, damit die anderen einen vollständigen und verständlichen Verlauf zur Versorgung des Pferdes haben (berechtigtes Interesse). Sie bleiben, bis das Pferd gelöscht wird oder du ihre Löschung verlangst. Die Ausnahmen dabei stehen weiter unten.
 
-Vor dem Löschen deines Kontos kannst du deine Nachrichten gesammelt und deine Beobachtungen einzeln löschen. Auch danach kannst du widersprechen (Abschnitt 3) oder per E-Mail die Löschung verlangen. Dafür führen wir ein getrenntes Verzeichnis, das auf diese Beiträge verweist. Es enthält statt Name und Kontonummer nur einen geheimen Prüfwert deiner E-Mail-Adresse. Das Verzeichnis dient nur dazu, solche Löschwünsche zu erfüllen. Ein Eintrag verschwindet automatisch mit dem Beitrag, spätestens mit dem Pferd. Rechtsgrundlage ist unser berechtigtes Interesse, Löschwünsche ehemaliger Mitglieder erfüllen zu können.
+Vor dem Löschen deines Kontos kannst du deine Nachrichten gesammelt („Meine Nachrichten“) und deine Beobachtungen einzeln löschen. Auch danach kannst du widersprechen (Abschnitt 3) oder per E-Mail die Löschung verlangen. Nach dem Löschen deines Kontos können wir deine Beiträge aber nicht mehr automatisch deinem früheren Konto zuordnen, denn ein Verzeichnis dafür führen wir nicht. Nenn uns deshalb bitte das Pferd und die Beiträge so genau wie möglich, zum Beispiel mit Datum und Inhalt.
 
 Verlangst du die Löschung, prüfen wir jeden Beitrag einzeln. Meist löschen wir ihn oder schwärzen deinen Text und deine Werte. Nicht immer geht das sofort oder ganz:
 
@@ -329,91 +334,98 @@ Verlangst du die Löschung, prüfen wir jeden Beitrag einzeln. Meist löschen wi
 
 Was wir nicht löschen können, sagen wir dir mit Grund. Du kannst dich dann auch an die Aufsichtsbehörde wenden (Abschnitt 13).
 
-Über solche Löschungen führen wir ein Protokoll. Darin stehen eine Fallnummer, technische Kennungen der betroffenen Beiträge und Fotos und die Zeitpunkte. Wir brauchen es, damit gelöschte Beiträge nach einer Wiederherstellung aus einer Sicherung nicht zurückkommen und wir die Löschung nachweisen können. Wir bewahren es 3 Jahre auf. Rechtsgrundlage ist unser berechtigtes Interesse an der Rechenschaft nach Art. 5 Abs. 2 DSGVO.
+Über solche Löschungen führen wir ein Protokoll. Darin stehen eine Fallnummer, technische Kennungen der betroffenen Beiträge und die Zeitpunkte. Wir brauchen es, damit gelöschte Beiträge nach einer Wiederherstellung aus einer Sicherung nicht zurückkommen und wir die Löschung nachweisen können. Wir bewahren es 3 Jahre auf. Rechtsgrundlage ist unser berechtigtes Interesse an der Rechenschaft nach Art. 5 Abs. 2 DSGVO.
 
 ### Austritt und Entfernen
 
-Trittst du bei einem Pferd aus oder entfernt dich der Besitzer, endet dein Zugriff sofort. Die App löscht die Daten dieses Pferdes auf deinem Handy, sobald es online ist. Deine künftigen Reittage, Anwesenheiten und offenen Tauschanfragen fallen weg. Bei vergangenen Einträgen steht „Ehemaliges Mitglied“. Deine Nachrichten, Fotos, Beobachtungen und anderen Beiträge bleiben für die anderen im Verlauf. Lösch sie vorher, wenn du das nicht möchtest. Du bekommst eine Karte in deiner Sammlung, und deine privaten Bereiche bleiben.
+Trittst du bei einem Pferd aus oder entfernt dich der Besitzer, endet dein Zugriff sofort. Die App löscht die Daten dieses Pferdes auf deinem Handy, sobald es online ist. Deine künftigen Reittage und Aufgaben enden, und deine offenen Tauschanfragen werden zurückgezogen. Bei vergangenen Einträgen steht „Ehemaliges Mitglied“. Deine Nachrichten, Fotos, Beobachtungen und anderen Beiträge bleiben für die anderen im Verlauf. Lösch sie vorher, wenn du das nicht möchtest. Du bekommst eine Karte in deiner Sammlung, und deine privaten Bereiche bleiben.
 
 ### Pferd abgegeben oder gelöscht
 
-Das entscheidet nur der Besitzer. Vorher bietet die App einen Export an. Alle Mitgliedschaften enden, und jede beteiligte Person bekommt eine Karte in ihrer Sammlung. Die gemeinsamen Daten und Dateien des Pferdes löschen wir, auch die Beiträge aller Mitglieder. Für Rückfragen bleibt höchstens 30 Tage das oben beschriebene Archiv.
+Das entscheidet nur der Besitzer. Vorher bietet die App an, alles herunterzuladen. Beendet der Besitzer ein Pferd, enden alle Mitgliedschaften, und jede beteiligte Person bekommt eine Karte in ihrer Sammlung. 30 Tage lang kann der Besitzer das Pferd zurückholen; so lange bleiben die Daten bei uns gespeichert, die anderen sehen sie aber nicht. Holt er es zurück, haben die Mitglieder wieder Zugriff. Danach löschen wir die gemeinsamen Daten und Dateien des Pferdes endgültig, auch die Beiträge aller Mitglieder.
+
+### Daten aus der früheren Version der App
+
+Hast du Stall Planner schon vor dem Umstieg auf die heutige Version genutzt, liegen Inhalte aus der früheren Version noch in einem getrennten, alten Speicher auf unserem Server. Die App greift darauf nicht mehr zu, und niemand sieht sie in der App. In dein Konto übernommen haben wir nur die Anmeldung, den Benutzernamen, die Altersangabe, deine Zustimmungen und die Nachweise mit gesetzlicher Frist. Den alten Speicher löschen wir vollständig, sobald keine frühere Version der App mehr genutzt wird. Bis dahin laufen für den alten Speicher keine eigenen Löschfristen.
 
 ### Fristen im Überblick
 
-- Nicht bestätigte Konten: 7 Tage
-- Einladung per Code: 48 Stunden; Adresse einer nicht angenommenen Code-Einladung: spätestens 7 Tage nach Ablauf oder Widerruf. Einladungslink: 7 Tage, in dieser Zeit mehrfach nutzbar
-- Kopie der E-Mail-Adresse in der Mitgliedschaft: bis die Mitgliedschaft endet
-- Anmeldung: höchstens 30 Tage, endet nach 7 Tagen ohne Nutzung
-- Notfall-Banner: 72 Stunden. Notfall-Mitteilung: 6 Stunden gültig. Zustellbelege: 30 Tage
-- Gerätekennzeichen: bis zur Abmeldung, zur Kontolöschung oder bis Google es als ungültig meldet; bei Google bis zu 180 Tage nach der Löschung
+- Anmeldedaten ohne abgeschlossene Registrierung: 7 Tage
+- Anmeldung: endet nach 30 Tagen ohne Nutzung
+- Einladungslink: 7 Tage, für eine Person. Anfrage dazu: wartet bis zu 7 Tage. Link und Anfrage: gelöscht 7 Tage nach Ablauf, Benutzung oder Widerruf
+- Gelöschte Einträge, Nachrichten und private Einträge: Inhalt sofort geleert, leerer Eintrag nach 60 Tagen gelöscht
+- Beendetes Pferd: 30 Tage zurückholbar, danach gelöscht
+- Konto löschen in der App: 14 Tage zum Zurücknehmen, dann gelöscht. Zurückgezogene Löschaufträge: 30 Tage
+- Gerätekennzeichen: bis zur Abmeldung, 90 Tage ohne Öffnen der App, zur Kontolöschung oder bis Google es als ungültig meldet; bei Google bis zu 180 Tage nach der Löschung. Zustellbelege: 30 Tage
 - Anmelde- und Zugriffsprotokolle bei Supabase: 7 Tage
 - Sperrvermerke: bis zur Löschung des Kontos
-- Nutzungszähler je Konto: 30 Tage. Prüfwerte von E-Mail-Adressen: 7 Tage. Überwachung des Betriebs: 90 Tage
-- Anfragen und erledigte Anträge: 30 Tage nach Erledigung, danach bei Google bis zu 180 Tage, bis sie aus allen Systemen entfernt sind. Zurückgezogene Löschaufträge für dein Konto: bis zur Löschung des Kontos
-- Meldungen und Entscheidungen: 6 Monate nach der Entscheidung, auch wenn vorher ein beteiligtes Konto oder das Pferd gelöscht wird
+- Nutzungszähler je Konto oder Pferd: 30 Tage. Überwachung des Betriebs: 90 Tage
+- Adresse für die Info-Mail an Eltern: bis zum Versand, höchstens 24 Stunden. Prüfwert und Widerspruchslink: 30 Tage
+- Anfragen und erledigte Anträge: 30 Tage nach Erledigung, danach bei Google bis zu 180 Tage, bis sie aus allen Systemen entfernt sind
+- Meldungen und Entscheidungen: 6 Monate nach der Entscheidung; nicht entschiedene Meldungen 6 Monate nach Eingang
 - Name aus dem Widerruf: bis zur Löschung des Kontos
 - Versandprotokolle bei Resend: 30 Tage
-- Offline-Kopien ohne Verbindung: nach 30 Tagen ausgeblendet, nach 60 Tagen gelöscht
-- Archiv nach Löschung eines Pferdes: höchstens 30 Tage
-- Datensicherungen: 7 Tage bei Supabase. Löschliste: bis 1 Tag nach Ablauf der letzten Sicherung
+- Kopie auf dem Handy ohne Verbindung zum Server: nach 30 Tagen gelöscht. Vorgemerkte Einträge: bis sie gesendet oder verworfen sind
+- Datensicherungen: 7 Tage bei Supabase, Kopien vor Änderungen am Server höchstens 7 Tage. Löschliste: bis 1 Tag nach Ablauf der letzten Sicherung
 - Herkunftsangaben übernommener Einträge: solange der Eintrag besteht
-- Löschnachweis und Vertragsnachweis: 3 Jahre ab Ende des Jahres der Löschung
+- Vertrags- und Löschnachweis: 3 Jahre ab Ende des Jahres der Löschung
 - Protokoll zu gelöschten Beiträgen ehemaliger Mitglieder: 3 Jahre
+- Inhalte aus der früheren Version der App: bis zum Abbau des alten Speichers
 - Alles andere: solange dein Konto oder das Pferd besteht, wie in Abschnitt 4 beschrieben
 
-Beenden wir den Testbetrieb, kündigen wir das mindestens 14 Tage vorher an und löschen danach alle Konten nach diesen Regeln.
+Stellen wir Stall Planner ein, kündigen wir das mindestens 30 Tage vorher an und löschen danach alle Konten nach diesen Regeln.
 
 ## 9. Speichern auf dem Handy und Berechtigungen
 
 Diese Informationen speichert die App auf deinem Handy und liest sie dort aus:
 
-- deine Anmeldung im Android-Schlüsselspeicher,
-- die verschlüsselte Offline-Kopie,
-- noch nicht gesendete Änderungen,
-- deine Einstellungen und kleine Merker ohne Inhalt, zum Beispiel dass du einen Hinweis gelesen hast,
-- für Notfall-Mitteilungen das Gerätekennzeichen und eine Installationskennung von Firebase.
+- deine Anmeldung im geschützten Speicher der App,
+- die Kopie der zuletzt geladenen Daten und zuletzt angesehene Fotos,
+- noch nicht gesendete Einträge,
+- deine Einstellungen und kleine Merker ohne Inhalt, zum Beispiel hell oder dunkel und dass du einen Hinweis gelesen hast,
+- die Pferde im Planer und den Kaufplaner einer früheren Version der App, falls du sie genutzt hast,
+- eine Installationskennung der App und für Mitteilungen das Gerätekennzeichen und eine Installationskennung von Firebase.
 
-Gerätekennzeichen und Installationskennung erzeugt die App erst, wenn du angemeldet bist und Mitteilungen erlaubst. Außerdem fragt die App beim System ab, ob eine Bildschirmsperre eingerichtet ist. Die Antwort bleibt auf dem Handy.
+Gerätekennzeichen und Installationskennungen erzeugt die App erst, wenn du angemeldet bist und Mitteilungen erlaubst. Außerdem fragt die App beim System ab, ob eine Bildschirmsperre eingerichtet ist. Die Antwort bleibt auf dem Handy. Beim ersten Start nach der Installation liest die App einmal die Zwischenablage, um einen Einladungslink zu finden (4.4).
 
-All das ist unbedingt erforderlich, damit die App so funktioniert, wie du sie nutzen willst (§ 25 Abs. 2 Nr. 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz, TDDDG). Eine Einwilligung ist dafür nicht nötig. Für die weitere Verarbeitung gelten die Abschnitte 4 bis 8.
+All das ist unbedingt erforderlich, damit die App so funktioniert, wie du sie nutzen willst (§ 25 Abs. 2 Nr. 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz, TDDDG). Das gilt auch für das einmalige Lesen der Zwischenablage: Es dient nur dazu, eine Einladung fortzusetzen, die du selbst geöffnet oder kopiert hast. Die App sucht dabei nur nach einem Einladungslink von stallplanner.de; alles andere bleibt unberührt auf deinem Handy. Eine Einwilligung ist dafür nicht nötig. Für die weitere Verarbeitung gelten die Abschnitte 4 bis 8.
 
-Berechtigungen: Die App braucht Internetzugang und den Netzwerkstatus. Damit sie vorgemerkte Änderungen nach einem Neustart senden kann, darf sie nach dem Einschalten des Handys starten. Für Notfall-Mitteilungen bittet sie dich um die Erlaubnis, Mitteilungen zu zeigen. Du kannst sie jederzeit in den Android-Einstellungen erteilen oder entziehen. Diese Erlaubnis ist eine Einstellung deines Handys und keine Einwilligung im Sinne der DSGVO. Fotos und Dokumente wählst du über die Auswahl deines Handys aus. Zugriff auf Standort, Kamera, Mikrofon, Kontakte oder Kalender verlangt die App nicht.
+Berechtigungen: Die App braucht Internetzugang und den Netzwerkstatus. Damit sie vorgemerkte Einträge nach einem Neustart senden kann, darf sie nach dem Einschalten des Handys starten. Für Mitteilungen bittet sie dich um die Erlaubnis, Mitteilungen zu zeigen. Du kannst sie jederzeit in den Android-Einstellungen erteilen oder entziehen. Diese Erlaubnis ist eine Einstellung deines Handys und keine Einwilligung im Sinne der DSGVO. Für den Empfang von Mitteilungen bringt Firebase zwei technische Berechtigungen mit. Fotos und Dokumente wählst du über die Auswahl deines Handys aus. Zugriff auf Standort, Kamera, Mikrofon, Kontakte oder Kalender verlangt die App nicht.
 
-Die App liest keine Werbe-ID aus und enthält keine Bibliotheken für Werbung, Analyse oder Absturzberichte. Die einzige Bibliothek, die Daten an einen anderen Anbieter schickt, ist Firebase Cloud Messaging für Notfall-Mitteilungen. Zustellstatistiken schickt sie nicht an Google, das haben wir ausgeschaltet. Android-Sicherungen in der Cloud sind für die App ausgeschaltet.
+Die App liest keine Werbe-ID aus und enthält keine Bibliotheken für Werbung, Analyse oder Absturzberichte. Die einzige Bibliothek, die Daten an einen anderen Anbieter schickt, ist Firebase Cloud Messaging für Mitteilungen. Zustellstatistiken schickt sie nicht an Google, das haben wir ausgeschaltet. Auch Messwerte der Android-WebView an Google sind ausgeschaltet. Android-Sicherungen in der Cloud sind für die App ausgeschaltet.
 
 ## 10. So schützen wir deine Daten
 
 - Alle Verbindungen zwischen App und Server sind verschlüsselt (HTTPS). Unverschlüsselte Verbindungen lässt die App nicht zu.
-- Bei jedem Zugriff prüft der Server, ob dein Konto aktiv und bestätigt ist, ob es auf der Zugangsliste steht und ob deine Rolle die Daten sehen darf.
+- Bei jedem Zugriff prüft der Server, ob dein Konto aktiv und bestätigt ist, ob deine Anmeldung noch gilt und ob deine Rolle die Daten sehen darf.
 - Bilder und Dokumente liegen in einem privaten Speicher ohne öffentliche Links.
-- Passwörter speichert der Anmeldedienst nur als Prüfwert. Einen zweiten Faktor kannst du freiwillig einrichten.
-- Die Offline-Kopie auf dem Handy ist verschlüsselt. Den Schlüssel verwahrt der Android-Schlüsselspeicher.
+- Passwörter speichert der Anmeldedienst nur als Prüfwert. Bekannte, unsichere Passwörter lehnt er ab.
+- Die Daten auf dem Handy liegen im geschützten Speicher der App, ohne eigene zusätzliche Verschlüsselung (Abschnitt 6).
 - Deine privaten Bereiche schützen Zugriffsrechte in der Datenbank: Nur dein Konto kann sie abrufen. Ende-zu-Ende-verschlüsselt sind sie nicht (4.12).
-- Fotos speichert die App vor dem Hochladen neu und entfernt dabei Ortsangaben und andere Zusatzdaten.
-- Die Löschliste außerhalb der Datenbank verschlüsseln wir mit AES-256, bevor wir sie ablegen. Den Schlüssel verwahren wir getrennt.
+- Fotos speichert die App vor dem Hochladen neu und entfernt dabei Ortsangaben und andere Zusatzdaten; der Server speichert sie noch einmal ohne Zusatzdaten.
+- Die Löschliste außerhalb der Datenbank enthält keine Inhalte und liegt in einem privaten Speicher, auf den die App keinen Zugriff hat.
 - Unsere Zugänge zu diesen Diensten sind mit einem zweiten Faktor geschützt.
 - Nutzungsgrenzen und die Überwachung des Betriebs schützen vor Missbrauch und Überlastung (4.18, 4.19).
 
 ## 11. Kinder und Jugendliche
 
-Stall Planner kannst du ab 13 Jahren nutzen. Unter 13 ist keine Registrierung möglich.
+Stall Planner kannst du ab 13 Jahren nutzen. Unter 13 ist keine Registrierung möglich. Die App richtet sich an Menschen, die Pferde versorgen, nicht an Kinder.
 
-- Wir speichern nur deine Altersgruppe: 13–15, 16–17 oder 18+. Ein Geburtsdatum speichern wir nicht, und die anderen beim Pferd sehen dein Alter nicht.
-- Bist du unter 18, bestätigst du bei der Registrierung selbst, dass deine Eltern oder Erziehungsberechtigten Bescheid wissen und einverstanden sind.
-- Bist du unter 16, wirst du nur Mitglied bei einem Pferd, wenn der Besitzer volljährig ist und dich bestätigt. Erst dann kannst du chatten und Fotos teilen, und erst dann sehen andere dein Profilbild. Einladungen kannst du unter 16 nicht erstellen.
-- Was du in den Chat schreibst oder dort zeigst, sehen alle beim Pferd, auch Erwachsene. Teile keine Adressen, Telefonnummern oder Passwörter. Zeig auf Fotos kein Gesicht, lieber dein Pferd oder ein Symbol.
+- Bei der Registrierung gibst du Monat und Jahr deiner Geburt an. Den Tag speichern wir nicht, und die anderen beim Pferd sehen dein Alter nicht.
+- Bist du unter 18, bestätigst du bei der Registrierung selbst, dass deine Eltern oder Erziehungsberechtigten einverstanden sind. Ohne diese Bestätigung ist keine Registrierung möglich.
+- Bist du unter 16, kannst du bei Pferden anderer nur Reitbeteiligung sein, nicht Stall oder Fachperson. Mitglied wirst du nur, wenn der Besitzer dich bestätigt.
+- Was du in den Chat schreibst oder dort zeigst, sehen alle beim Pferd, auch Erwachsene und Mitglieder, die später dazukommen. Teile keine Adressen, Telefonnummern oder Passwörter. Zeig auf Fotos kein Gesicht, lieber dein Pferd oder ein Symbol.
 - Teile ein Pferd nur mit Menschen, die du kennst.
 - Schreibt dir jemand etwas, das dir Angst macht oder unangenehm ist, melde es in der App. Sprich auch mit deinen Eltern oder einer Person, der du vertraust. Du kannst jederzeit bei einem Pferd austreten oder dein Konto löschen.
-- Freiwillig kannst du die E-Mail-Adresse deiner Eltern angeben. Sie bekommen dann einmal eine Info-Mail ohne Werbung. Darin steht, was Stall Planner ist, wer verantwortlich ist, welche Daten wir verarbeiten und wie sie widersprechen können.
+- Bist du unter 18, kannst du freiwillig die E-Mail-Adresse deiner Eltern angeben. Sie bekommen dann einmal eine Info-Mail ohne Werbung. Darin steht, was Stall Planner ist, wer verantwortlich ist, welche Daten wir verarbeiten und wie sie widersprechen können. Gibst du keine Adresse an, bekommen deine Eltern keine Nachricht von uns.
 
-**Für Eltern und Erziehungsberechtigte:** Bei Jugendlichen unter 18 wird der Teilnahmevertrag erst mit Ihrer Zustimmung wirksam (§§ 107, 108 BGB). Mit der Bestätigung bei der Registrierung teilt Ihr Kind uns mit, dass diese Zustimmung vorliegt. Eine Einwilligung im Sinne des Datenschutzrechts ist das nicht. Keine Verarbeitung in Stall Planner beruht auf einer Einwilligung. Grundlage ist der Vertrag nach den Teilnahmebedingungen (Art. 6 Abs. 1 lit. b DSGVO). Verweigern Sie die Zustimmung oder widersprechen Sie, sperren wir das Konto und löschen es nach Abschnitt 8. Bis dahin verarbeiten wir nur, was nötig ist, um das Konto zu sperren und zu löschen (Art. 6 Abs. 1 lit. c und f DSGVO).
+**Für Eltern und Erziehungsberechtigte:** Bei Jugendlichen unter 18 wird der Teilnahmevertrag erst mit Ihrer Zustimmung wirksam (§§ 107, 108 BGB). Mit der Bestätigung bei der Registrierung teilt Ihr Kind uns mit, dass diese Zustimmung vorliegt. Eine Einwilligung im Sinne des Datenschutzrechts ist das nicht. Keine Verarbeitung in Stall Planner beruht auf einer Einwilligung. Grundlage ist der Vertrag nach den Teilnahmebedingungen (Art. 6 Abs. 1 lit. b DSGVO). Solange Ihre Zustimmung noch nicht feststeht oder falls sie fehlt, stützen wir die Verarbeitung hilfsweise auf unser berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO), die von Ihrem Kind gewünschte Nutzung mit den Schutzmaßnahmen dieses Abschnitts zu ermöglichen; Ihr Kind und Sie können dem jederzeit widersprechen. Verweigern Sie die Zustimmung oder widersprechen Sie, sperren wir das Konto und löschen es nach Abschnitt 8. Bis dahin verarbeiten wir nur, was nötig ist, um das Konto zu sperren und zu löschen (Art. 6 Abs. 1 lit. c und f DSGVO).
 
-Die Adresse für die Info-Mail löschen wir mit dem Versand, spätestens nach zwei Tagen. Danach behalten wir 30 Tage lang nur einen geheimen Prüfwert, damit eine Adresse höchstens eine solche Mail in 30 Tagen bekommt. Widersprechen können Sie per E-Mail an datenschutz@stallplanner.de. Nach einem Widerspruch prüfen wir den Fall von Hand und löschen dann das Konto. Rechtsgrundlage für die Info-Mail ist unser berechtigtes Interesse, Eltern zu informieren und Minderjährige zu schützen.
+Die Adresse für die Info-Mail löschen wir mit dem Versand, spätestens nach 24 Stunden. Danach behalten wir 30 Tage lang nur einen geheimen Prüfwert der Adresse und einen Prüfwert des Widerspruchslinks aus der Mail. So lange gilt der Link. Öffnen Sie ihn, sperren wir das Konto sofort, prüfen den Fall dann von Hand und löschen das Konto. Unabhängig von der Info-Mail können Sie jederzeit per E-Mail an datenschutz@stallplanner.de widersprechen; nennen Sie uns dann bitte die E-Mail-Adresse oder den Benutzernamen des Kontos Ihres Kindes. Rechtsgrundlage für die Info-Mail ist unser berechtigtes Interesse, Eltern zu informieren und Minderjährige zu schützen.
 
 ## 12. Keine automatisierten Entscheidungen, keine Werbung, kein Tracking
 
-Entscheidungen, die dich rechtlich betreffen oder ähnlich stark beeinträchtigen, treffen wir nie automatisch (Art. 22 DSGVO). Automatische Bremsen bei Nutzungsgrenzen gelten immer nur kurz. Ein Konto sperrt nur ein Mensch. Wir halten den Grund fest und nennen ihn dir.
+Entscheidungen, die dich rechtlich betreffen oder ähnlich stark beeinträchtigen, treffen wir nie automatisch (Art. 22 DSGVO). Automatische Bremsen bei Nutzungsgrenzen gelten höchstens bis zum nächsten Tag. Ein Konto sperrt nur ein Mensch, mit einer Ausnahme: Öffnen Eltern den Widerspruchslink aus der Info-Mail, wird das Konto sofort gesperrt; ein Mensch prüft den Fall danach. Wir halten den Grund einer Sperre fest und nennen ihn dir.
 
 Wir zeigen keine Werbung und setzen kein Tracking ein. Wir verkaufen keine Daten, erstellen keine Profile über einzelne Personen und werten Freitexte, Nachrichten und Fotos nicht aus. Nach Gesundheitsdaten von Menschen fragen wir nicht.
 
@@ -428,7 +440,7 @@ Du hast das Recht auf:
 - Datenübertragbarkeit (Art. 20 DSGVO),
 - Widerspruch (Art. 21 DSGVO, siehe Abschnitt 3).
 
-Schreib dazu an datenschutz@stallplanner.de. Wir antworten innerhalb eines Monats. Bei schwierigen Fällen kann sich das um höchstens zwei Monate verlängern. Das sagen wir dir dann innerhalb des ersten Monats und nennen den Grund. Wir prüfen auf angemessene Weise, ob die Anfrage wirklich von dir kommt. Für eine Kopie deiner Daten vereinbaren wir mit dir einen sicheren Weg. Das gilt auch für deine privaten Bereiche. Am schnellsten bekommst du eine Kopie selbst über „Alles exportieren“.
+Schreib dazu an datenschutz@stallplanner.de. Wir antworten innerhalb eines Monats. Bei schwierigen Fällen kann sich das um höchstens zwei Monate verlängern. Das sagen wir dir dann innerhalb des ersten Monats und nennen den Grund. Wir prüfen auf angemessene Weise, ob die Anfrage wirklich von dir kommt. Für eine Kopie deiner Daten vereinbaren wir mit dir einen sicheren Weg. Das gilt auch für deine privaten Bereiche und für das, was du bei Pferden anderer eingetragen hast. Am schnellsten bekommst du eine Kopie selbst über „Alles herunterladen“ (4.14).
 
 Da keine Verarbeitung auf einer Einwilligung beruht, gibt es keine Einwilligung, die du widerrufen könntest.
 
@@ -436,19 +448,19 @@ Du kannst dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO
 
 ## 14. Musst du Daten angeben?
 
-Gesetzlich bist du nicht verpflichtet, uns Daten zu geben. Für den Vertrag brauchen wir aber deine E-Mail-Adresse, ein Passwort, einen Anzeigenamen, deine Altersgruppe und deine Zustimmung zu den Teilnahmebedingungen. Ohne sie kannst du Stall Planner nicht nutzen. Alles andere trägst du freiwillig ein, zum Beispiel Bilder, Notizen, Kosten oder die Adresse deiner Eltern. Ohne die Erlaubnis für Mitteilungen siehst du Notfälle nur in der App.
+Gesetzlich bist du nicht verpflichtet, uns Daten zu geben. Für den Vertrag brauchen wir aber deine E-Mail-Adresse, ein Passwort, einen Benutzernamen, Monat und Jahr deiner Geburt und deine Zustimmung zu den Teilnahmebedingungen. Ohne sie kannst du Stall Planner nicht nutzen. Alles andere trägst du freiwillig ein, zum Beispiel Bilder, Notizen, Kosten oder die Adresse deiner Eltern. Ohne die Erlaubnis für Mitteilungen siehst du Notfälle und Neuigkeiten nur in der App.
 
 ## 15. Personen ohne Konto
 
 Dieser Abschnitt ist für Menschen ohne eigenes Konto, über die trotzdem etwas eingetragen sein kann. Das können zum Beispiel Tierärzte, Hufschmiede, Reitlehrer, Stallnachbarn, eingeladene Personen oder Eltern sein, die die Info-Mail bekommen.
 
-- **Welche Daten:** Kontakte wie Tierarzt oder Hufschmied mit Name, Funktion, Telefon und E-Mail. Außerdem kann in Termintiteln, Notizen und Nachrichten etwas stehen wie „Hufschmied Müller 10 Uhr“. Fotos können Personen zeigen. Bei Einladungen per Code speichern wir die E-Mail-Adresse, die der Besitzer eingibt. Ein Einladungslink enthält keine Angaben über die eingeladene Person.
-- **Woher die Daten kommen:** Die Nutzer der App tragen sie selbst ein, zum Beispiel den Kontakt eines Tierarztes oder eine Notiz. Bei Einladungen per Code gibt der Besitzer des Pferdes die Adresse ein.
+- **Welche Daten:** Kontakte wie Tierarzt oder Hufschmied mit Name, Funktion, Telefon und E-Mail. Außerdem kann in Termintiteln, Besuchsnotizen, Notizen und Nachrichten etwas stehen wie „Hufschmied Müller 10 Uhr“. Fotos können Personen zeigen. Ein Einladungslink enthält keine Angaben über die eingeladene Person.
+- **Woher die Daten kommen:** Die Nutzer der App tragen sie selbst ein, zum Beispiel den Kontakt eines Tierarztes oder eine Notiz.
 - **Wozu:** Damit die Beteiligten die Versorgung ihres Pferdes gemeinsam planen können. Wir nutzen diese Angaben für nichts anderes und werten Freitexte und Fotos nicht aus.
 - **Rechtsgrundlage:** das berechtigte Interesse der Nutzer und unser eigenes an der gemeinsamen Planung rund um das Pferd. Angaben zur Gesundheit von Menschen gehören nicht in Stall Planner. Erfahren wir davon, löschen wir sie.
-- **Wie lange:** solange der Eintrag besteht, längstens bis das Pferd gelöscht wird. Einladungen per Code gelten 48 Stunden, Einladungslinks 7 Tage.
+- **Wie lange:** solange der Eintrag besteht, längstens bis das Pferd gelöscht wird. Gelöschte Einträge leeren wir sofort. Kopien auf den Handys der Beteiligten verschwinden spätestens nach 30 Tagen ohne Verbindung. In Datensicherungen können gelöschte Angaben noch bis zu 7 Tage stehen.
 - **Wer sieht die Daten:** die Beteiligten des jeweiligen Pferdes (Abschnitt 5) und unsere Dienstleister (Abschnitt 7).
-- **Eingeladene Personen:** Wir schicken an die Adresse einer Code-Einladung keine E-Mail. Von der Einladung erfährst du vom Besitzer. Nimmst du sie an, legst du ein Konto an und bekommst dabei diese Erklärung. Nimmst du sie nicht an, löschen wir die Adresse spätestens 7 Tage nach Ablauf oder Widerruf der Einladung.
+- **Eingeladene Personen:** Wer einen Einladungslink bekommt, erfährt davon von der Person, die ihn geteilt hat. Über dich speichern wir erst etwas, wenn du ein Konto anlegst; dabei bekommst du diese Erklärung.
 - **Warum wir nicht einzeln informieren:** Meist wissen wir nicht, wer in einem Text oder auf einem Foto gemeint ist, und wir haben keine Kontaktdaten. Kontaktdaten wie die Nummer eines Tierarztes nutzen wir nur für die Planung beim Pferd. Um dich zu informieren, müssten wir sie für einen anderen Zweck verwenden oder zusätzliche Daten über dich sammeln. Deshalb informieren wir öffentlich auf dieser Seite (Art. 14 Abs. 5 lit. b DSGVO).
 - **Deine Rechte:** Du hast dieselben Rechte wie in den Abschnitten 3 und 13. Schreib an datenschutz@stallplanner.de und nenne uns, wenn möglich, das Pferd oder den Eintrag. Freitexte und Fotos über dich löschen wir auf Anfrage.
 
